@@ -16,7 +16,7 @@ src_oficial/
 ├── .env.example                  modelo do .env com HF_TOKEN2 (só para o Pangram)
 ├── web_scraping/                 recupera os artigos do SBC Open Lib e os salva em um dataset
 ├── src/                          todos os scripts (seção 5)
-├── dataset/                      Nosso dataset: JSONs estruturados por <conferência>/<ano>/ (seção 4)
+├── dataset/                      Nosso dataset: JSONs estruturados por <conferência>/<ano>/ (seção 4); Gerado inicialmente pelo web scraping
 └── resultados/                   saídas que obtivemos (CSVs e figuras)
 ```
 ## 2. Como reproduzir
