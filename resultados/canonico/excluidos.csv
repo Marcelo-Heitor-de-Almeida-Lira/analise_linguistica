@@ -1,0 +1,6 @@
+source_file,event,year,id,lang,prob,lang_fulltext,title,n_chars,nsec,refs,curto,motivo
+eniac_2021_18258.json,eniac,2021,18258,en,1.0,en,The 5th Brazilian Competition on Knowledge Discovery in Databases (KDD-BR 2021),5693,2,3,True,front matter (visão geral da competição KDD-BR 2021)
+eniac_2021_18259.json,eniac,2021,18259,en,1.0,en,KDD-BR 2021: Using Graph Neural Networks for Link Prediction in TSP problem,8619,5,7,True,trabalho curto (KDD-BR 2021)
+eniac_2021_18260.json,eniac,2021,18260,en,1.0,en,An iterated local search for the travelling salesman problem,7328,3,11,True,trabalho curto (KDD-BR 2021)
+eniac_2021_18261.json,eniac,2021,18261,en,1.0,en,Enhanced Self-Organizing Map Solution for the Traveling Salesman Problem,6458,4,14,True,trabalho curto (KDD-BR 2021)
+sbbd_2020_13477.json,sbbd,2020,13477,en,1.0,en,,636,1,0,True,"sem texto útil (só eixos/legendas de figura, sem título/autores)"

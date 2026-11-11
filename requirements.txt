@@ -1,0 +1,27 @@
+# Ambiente em que os resultados foram gerados: Python 3.13, Linux, GPU NVIDIA RTX 4070 SUPER (12 GB), CUDA 13.
+# pip install -r requirements.txt  (torch: use o índice/CUDA adequado à sua máquina)
+accelerate==1.14.0
+beautifulsoup4
+bitsandbytes==0.50.0
+langdetect==1.0.9
+lexicalrichness==0.5.1
+lxml
+matplotlib==3.10.8
+nltk==3.10.3
+numpy==2.2.6
+pandas==2.3.3
+peft==0.21.0
+pillow==12.1.0
+pyphen==0.18.1
+scikit-learn==1.8.0
+scipy==1.17.0
+spacy==3.8.16
+textstat==0.7.13
+torch==2.13.0
+transformers==5.14.1
+
+# Modelos spaCy (instalar à parte, versão 3.8.0):
+#   python -m spacy download pt_core_news_sm
+#   python -m spacy download en_core_web_sm
+# Modelos Hugging Face usados (baixados automaticamente; os dois do Pangram são "gated", exigem HF_TOKEN2 — ver .env.example):
+#   meta-llama/Llama-3.2-3B (gated) · pangram/editlens_Llama-3.2-3B (gated) · gpt2 · pierreguillou/gpt2-small-portuguese (só scripts de exploração/legado)

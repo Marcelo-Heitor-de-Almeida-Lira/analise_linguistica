@@ -1,0 +1,13 @@
+{
+ "modelo": "pangram/editlens_Llama-3.2-3B",
+ "base": "meta-llama/Llama-3.2-3B",
+ "janela_tokens": 512,
+ "min_tokens": 32,
+ "agregacao": "média das probabilidades ponderada por tokens",
+ "classes": {
+  "0": "humano",
+  "1": "pouco editado por IA",
+  "2": "muito editado por IA",
+  "3": "gerado por IA"
+ }
+}

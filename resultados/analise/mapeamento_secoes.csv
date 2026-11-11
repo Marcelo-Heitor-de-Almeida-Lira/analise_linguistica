@@ -1,0 +1,2685 @@
+t,categoria,secoes,tokens
+introdução,Introdução,1891,785398
+trabalhos relacionados,Trabalhos relacionados,1488,611031
+metodologia,Metodologia,1028,461637
+resultados,Resultados,950,427063
+introduction,Introdução,1024,385964
+preamble,Introdução,590,242963
+conclusão,Conclusão,507,175017
+methodology,Metodologia,414,173314
+resultados e discussão,Resultados,370,169438
+results,Resultados,404,168772
+materiais e métodos,Metodologia,367,165514
+related work,Trabalhos relacionados,399,151333
+fundamentação teórica,Trabalhos relacionados,321,139234
+results and discussion,Resultados,270,116433
+avaliação experimental,Resultados,231,104323
+avaliação de desempenho,Resultados,202,93173
+resultados e discussões,Resultados,200,89097
+experimentos,Resultados,192,88082
+considerações finais,Conclusão,227,82650
+experimentos e resultados,Resultados,175,82134
+conclusion,Conclusão,302,81687
+avaliação,Resultados,163,74777
+related works,Trabalhos relacionados,185,69275
+experiments,Resultados,145,62369
+resultados experimentais,Resultados,135,62074
+conclusões,Conclusão,175,59597
+background,Trabalhos relacionados,147,59213
+experimental evaluation,Resultados,130,56078
+conclusão e trabalhos futuros,Conclusão,152,52746
+materials and methods,Metodologia,117,50860
+conclusões e trabalhos futuros,Conclusão,129,44824
+evaluation,Resultados,102,44026
+referências,Outras,109,43739
+references,Outras,125,42441
+referencial teórico,Trabalhos relacionados,96,41409
+experiments and results,Resultados,95,40316
+estudo de caso,Resultados,83,35725
+discussão,Resultados,76,32482
+proposta,Metodologia,71,31461
+solução proposta,Metodologia,60,26938
+abordagem proposta,Metodologia,61,26866
+conclusions,Conclusão,98,26283
+discussion,Resultados,71,25661
+método,Metodologia,56,24966
+methods,Metodologia,57,24875
+trabalhos correlatos,Trabalhos relacionados,62,24525
+method,Metodologia,53,22863
+background and related work,Trabalhos relacionados,55,22524
+resultados e análises,Resultados,47,22346
+estudos de caso,Resultados,45,21641
+experimental results,Resultados,50,21528
+análise dos resultados,Resultados,49,20816
+experimentos computacionais,Resultados,43,20079
+revisão da literatura,Trabalhos relacionados,47,20054
+avaliação e resultados,Resultados,40,19104
+avaliação da proposta,Resultados,39,18091
+theoretical background,Trabalhos relacionados,40,17804
+material and methods,Metodologia,39,16955
+metodologia experimental,Metodologia,39,16653
+results and discussions,Resultados,38,16545
+conclusion and future work,Conclusão,59,16540
+conceitos básicos,Trabalhos relacionados,36,16022
+referencial teórico e trabalhos relacionados,Trabalhos relacionados,34,15522
+análises e resultados,Resultados,32,15153
+metodologia proposta,Metodologia,31,14811
+algoritmo proposto,Metodologia,32,13959
+modelo do sistema,Metodologia,28,13090
+proposed approach,Metodologia,30,13004
+experimental setup,Metodologia,31,12507
+análise de desempenho,Resultados,27,12010
+métodos,Metodologia,27,11900
+fundamentos,Trabalhos relacionados,28,11426
+performance evaluation,Resultados,25,11068
+proposed method,Metodologia,25,10965
+computational experiments,Resultados,24,10479
+experimental methodology,Metodologia,23,10313
+discussão dos resultados,Resultados,22,10208
+fundamentação teórica e trabalhos relacionados,Trabalhos relacionados,21,9432
+conclusions and future work,Conclusão,32,9231
+estudo experimental e análise dos resultados,Resultados,19,9137
+base de dados,Metodologia,22,9107
+conjunto de dados,Metodologia,22,8740
+material e métodos,Metodologia,18,8592
+proposed solution,Metodologia,19,8454
+resultados numéricos,Resultados,18,8443
+conceitos fundamentais,Trabalhos relacionados,20,8404
+experimentação e resultados,Resultados,17,8240
+modelo,Metodologia,18,8046
+proposal,Metodologia,18,7962
+fundamentos e trabalhos relacionados,Trabalhos relacionados,17,7952
+data and methods,Metodologia,17,7819
+metodologia de avaliação,Metodologia,20,7801
+proposed methodology,Metodologia,18,7719
+conceitos e trabalhos relacionados,Trabalhos relacionados,17,7683
+resultados obtidos,Resultados,18,7658
+fundamentação,Trabalhos relacionados,19,7622
+literature review,Trabalhos relacionados,18,7448
+contextualização,Outras,16,7438
+experiment,Resultados,16,7389
+theoretical foundation,Trabalhos relacionados,17,7285
+system model,Metodologia,18,7279
+trabalhos relacionados e principais contribuições,Trabalhos relacionados,15,7199
+procedimentos metodológicos,Metodologia,17,7178
+definição do problema,Metodologia,18,7050
+case study,Resultados,17,7038
+discussão e resultados,Resultados,15,6809
+implementação,Metodologia,14,6598
+materias e métodos,Metodologia,14,6563
+análises,Resultados,14,6430
+desenvolvimento do protótipo e resultados obtidos,Metodologia,13,6336
+feshyd,Outras,12,6082
+considerações finais e trabalhos futuros,Conclusão,17,6030
+visão geral,Outras,14,5955
+metodologia e resultados,Metodologia,12,5888
+mecanismo de privacidade proposto,Metodologia,12,5849
+uma abordagem analı́tica com spn para avaliar sistemas fl,Resultados,12,5838
+preliminaries,Trabalhos relacionados,14,5822
+arquitetura proposta,Metodologia,12,5813
+método proposto,Metodologia,14,5794
+estudo comparativo entre o shodan e o censys,Outras,12,5733
+modelo proposto,Metodologia,12,5697
+estudo de caso e resultados experimentais,Resultados,12,5670
+o sistema ndn-waze,Metodologia,11,5385
+case studies,Resultados,11,5351
+background and related works,Trabalhos relacionados,13,5276
+experimentos e discussão,Resultados,11,5253
+results and analysis,Resultados,14,5213
+experimental design,Resultados,12,5166
+revisão bibliográfica,Trabalhos relacionados,12,5139
+protocolo de sincronização para nanorredes multiusuário,Outras,10,5120
+alocação de tarefas em nuvens veiculares utilizando jogos de mercado,Outras,10,5120
+cerva: roteamento contextual para veículos com risco espaço-temporal,Outras,10,5120
+análise experimental,Resultados,11,5116
+simulações e resultados,Resultados,12,5115
+implementation,Metodologia,14,5083
+desenvolvimento,Metodologia,12,5006
+o método botfetcher,Metodologia,10,5004
+conclusions and future works,Conclusão,16,4971
+prova de conceito,Metodologia,11,4939
+redes ópticas elásticas,Outras,10,4933
+final considerations,Conclusão,18,4929
+experimentos e análise dos resultados,Resultados,11,4919
+o desafio da inclusão e a consolidação da janela periódica inclusiva,Outras,10,4885
+our proposal,Metodologia,11,4846
+dataset,Metodologia,15,4827
+research method,Metodologia,11,4821
+concluding remarks,Conclusão,17,4785
+metodologia para identificação de fraudes,Metodologia,10,4760
+simulação e análise de resultados,Resultados,11,4758
+experimento,Resultados,10,4739
+geração dos modelos de classificação dos ataques de varredura,Metodologia,10,4724
+revisão sistemática da literatura,Trabalhos relacionados,10,4710
+avaliação experimental e resultados,Resultados,10,4698
+o protocolo split-mac,Outras,10,4654
+caso de uso,Resultados,11,4653
+final remarks,Conclusão,18,4620
+resultados de simulação,Resultados,10,4612
+avaliação da proposta e resultados experimentais,Resultados,9,4585
+análise do impacto da qualidade da imagem,Resultados,9,4544
+genetic algorithm,Metodologia,10,4527
+sistema proposto,Metodologia,10,4488
+fundamentação e trabalhos relacionados,Trabalhos relacionados,10,4460
+theoretical foundations,Trabalhos relacionados,10,4451
+análises de vulnerabilidades na internet brasileira,Resultados,9,4444
+viso: estrutura funcional da arquitetura,Metodologia,9,4411
+o algoritmo pprd,Metodologia,9,4360
+evaluation and analysis,Resultados,9,4346
+conclusion and future works,Conclusão,17,4345
+método de avaliação,Metodologia,9,4319
+o sistema proposto,Metodologia,9,4292
+algoritmos propostos: 2qcold e arcold,Metodologia,9,4278
+racional: rotas alternativas para veículos coletivos com segurança e distância equilibrados,Outras,9,4243
+paralelismo em buscas criptografadas verificáveis,Outras,9,4239
+avaliação da abordagem proposta,Resultados,10,4238
+projeto e implementação do mts-polka,Metodologia,9,4235
+"lgpd e ars, coexistindo em parcimônia",Outras,9,4179
+dados e métodos,Metodologia,9,4179
+experimental results and discussion,Resultados,10,4106
+abordagem deprebertbr,Metodologia,8,4096
+avaliação do maria,Resultados,8,4096
+validação,Resultados,9,4069
+results assessment,Resultados,9,4069
+a estratégia proposta: lgpdbyd,Metodologia,8,4066
+evaluation and results,Resultados,9,3998
+análise estática,Resultados,8,3987
+problem formulation,Metodologia,10,3983
+caracterização e análise da rede social real,Resultados,9,3969
+modelos da comunicação molecular multiportadora com ruídos,Metodologia,8,3932
+escalonamento híbrido,Outras,8,3922
+análise e discussão dos resultados,Resultados,9,3908
+revisão de literatura,Trabalhos relacionados,10,3888
+metodologia da pesquisa,Metodologia,9,3883
+inferência de polı́ticas de validação de rotas,Resultados,8,3882
+festas e bailes funk,Outras,8,3852
+corpus toxic-br,Outras,8,3826
+x                  x,Outras,8,3818
+abordagem metodológica,Metodologia,8,3807
+arquitetura e implementação,Metodologia,8,3801
+ambiente de experimentação aprimorado,Resultados,8,3773
+weapon,Outras,8,3769
+análise de resultados,Resultados,8,3741
+aspectos teóricos,Outras,8,3737
+preliminares,Trabalhos relacionados,9,3714
+vcubechain: uma blockchain permissionada escalável,Outras,8,3685
+análise de dados,Resultados,9,3679
+arcabouço de coleta de páginas de phishing,Outras,8,3655
+alice transmite os qubits gerados para bob através do canal quântico. o estado,Outras,8,3654
+avaliação do lator,Resultados,8,3653
+model and problem statement,Metodologia,8,3652
+a meta-heurı́stica fedsa proposta,Metodologia,8,3622
+theoretical framework,Trabalhos relacionados,9,3604
+experimentação,Resultados,9,3600
+uma breve revisão de redes neurais morfológicas,Trabalhos relacionados,7,3584
+tomada de decisão de offloading sensı́vel ao contexto,Outras,7,3584
+conte údo programático,Outras,7,3584
+proposed system,Metodologia,8,3574
+metodologia de pesquisa,Metodologia,9,3573
+nvnl-fl: não é visto não é lembrado,Outras,7,3523
+aprendizado profundo para a predição de ataques ddos,Outras,7,3512
+descrição do problema,Outras,10,3505
+fundamentação teórica,Trabalhos relacionados,7,3491
+we have also contributed to creating a large dataset with song lyrics and audio,Metodologia,7,3484
+mecanismo de proteção contra jamming attacks em iod,Outras,7,3462
+desenvolvimento e resultados,Metodologia,7,3457
+metodologia de desenvolvimento,Metodologia,7,3452
+data and methodology,Metodologia,7,3444
+extração de informações de demonstrações financeiras,Outras,7,3440
+results and analyses,Resultados,7,3439
+conceitos básicos e trabalhos relacionados,Trabalhos relacionados,7,3437
+modelagem e apresentação da técnica lgfs-c,Outras,7,3430
+análise ética das práticas no ciberespaço brasileiro,Resultados,7,3406
+disponibilizando suporte para nfv em nuvem cloudstack,Outras,7,3387
+materias e método,Metodologia,7,3386
+jogo e metodologia,Metodologia,7,3357
+experimentos e análises dos resultados,Resultados,8,3357
+arquitetura e algoritmos do userv,Metodologia,7,3354
+implementação de prova de conceito,Metodologia,7,3349
+avaliação da arquitetura proposta,Resultados,7,3334
+política de escalonamento afp,Outras,7,3325
+nossa proposta,Metodologia,7,3316
+escalonamento de tarefas em nuvens veiculares,Outras,7,3306
+"experimentos, resultados e discussões",Resultados,7,3303
+spam e varredura de porta             virut  1         4209       411      11289    2067,Outras,7,3302
+caracterização dos contatos entre participantes,Outras,7,3300
+sql2neo,Outras,7,3290
+metodologia dos experimentos e resultados,Metodologia,7,3281
+o espelho quebrado dos deepfakes,Outras,7,3270
+análise e resultados,Resultados,7,3267
+escalas diagnósticas para o tea,Outras,7,3266
+m ad = median(|xi − x̃|)                                       (2),Outras,7,3245
+a detailed use case: the blab chatbot,Resultados,7,3241
+explaining the models by local interpretability,Outras,7,3240
+ataque sanduı́che,Outras,7,3234
+análise do ecossistema https no brasil,Resultados,7,3229
+discussões,Resultados,9,3224
+identificação de páginas de phishing,Outras,7,3222
+ebres: um gerenciador de buffer inteligente,Outras,7,3208
+empirical study,Outras,7,3196
+sistema de detecção e contagem de gado,Metodologia,7,3194
+a network-based covid-19 evolution model for the city of são paulo,Metodologia,7,3192
+proposed dctpq for cloud gaming,Metodologia,7,3183
+análise e discussões,Resultados,7,3181
+fundamentação técnica,Trabalhos relacionados,7,3181
+visão geral do sistema,Metodologia,7,3174
+algoritmo,Metodologia,7,3161
+conceitos,Trabalhos relacionados,7,3139
+implementation and experimental results,Resultados,7,3134
+avaliação 4.1. configuração do modelo,Resultados,7,3134
+system description,Outras,7,3122
+the meaning of new technologies,Outras,7,3120
+methods and materials,Metodologia,7,3116
+relação entre fontes: complementares ou substituíveis?,Outras,7,3111
+controlled experiment,Resultados,7,3110
+discussão e conclusão,Conclusão,7,3076
+evaluation environment,Resultados,6,3072
+"experimentos, avaliação e estratégia",Resultados,6,3072
+desafios do processamento de alto desempenho,Resultados,6,3072
+vtq: sistema de recomendação de rota ciente da dinâmica urbana futura,Metodologia,6,3072
+resultados experimentais e discussão,Resultados,6,3072
+mqttprovider,Outras,6,3068
+resultados preliminares,Trabalhos relacionados,10,3060
+genetic service mapping,Outras,6,3060
+uma arquitetura abrangente para ems,Metodologia,6,3058
+arquitetura para o núcleo de redes de dados nomeados,Metodologia,6,3055
+notify visualization page,Outras,6,3055
+materiais e descrição dos modelos,Metodologia,6,3043
+métodos e desenvolvimento,Metodologia,6,3039
+"gb ram, sistema operacional ubuntu 22.04.3 lts. os resultados abaixo não reportam",Resultados,6,3036
+mobfogsim,Outras,6,3025
+"representando, organizando, visualizando e interpretando artefatos",Outras,6,3024
+solução proposta: addp-cacc (adaptive data dissemination protocol),Metodologia,6,3008
+ontodano,Outras,6,3006
+da tecnologia à legislação,Outras,6,3005
+k-flix design,Outras,6,2996
+a plataforma brasil participativo,Outras,6,2986
+assessing data transport efficiency for dis,Outras,6,2978
+qot com baixa margem em eon,Outras,6,2974
+protocolo dos experimentos e análise dos resultados,Resultados,6,2974
+in-network fast rerouting -infarr,Outras,6,2974
+metodologia de caracterização de vulnerabilidades de segurança,Metodologia,6,2973
+modelo de predição de desempenho de rede (pdr),Resultados,6,2963
+covid-19 detection on ibm quantum computer with classical-quantum,Outras,6,2962
+formação de nuvens veiculares,Outras,6,2960
+língua esperanto e as regras gramaticais,Outras,6,2958
+vieses presentes no reconhecimento facial,Outras,6,2957
+avaliação das limitações da camada física em sdm-eons,Resultados,7,2938
+analyses and results,Resultados,6,2929
+revisão bibliográfica baseada na definição de requisitos do otto,Trabalhos relacionados,6,2923
+experimental setting,Resultados,6,2920
+contexto e conceitos,Trabalhos relacionados,6,2917
+modelo spn,Metodologia,6,2916
+análise e discussão,Resultados,6,2905
+aspectos jurídico-normativos da privacidade e proteção de dados,Outras,6,2904
+virtualização leve com composição genérica e controle de acesso,Outras,6,2888
+intrinsic evaluation,Resultados,7,2886
+mbit/s | 6 mbit/s,Outras,6,2885
+desafios e oportunidades,Outras,6,2875
+repúdio e xingamentos a quem critica o uso dos cigarros eletrônicos,Outras,6,2874
+divisão,Outras,6,2872
+enhanced model for controller selection,Metodologia,6,2861
+identificação de impressões digitais com suporte de offloading,Outras,6,2851
+contextualização e proposta,Metodologia,6,2847
+o algoritmo hierárquico de difusão atômica,Metodologia,6,2840
+building tough winograd schemas,Outras,6,2828
+avaliação dos modelos e posterior seleção (qp1),Resultados,6,2807
+o hurricane,Outras,6,2807
+conceitos iniciais,Trabalhos relacionados,6,2806
+apresentação da base de dados rec4scibr,Metodologia,6,2806
+avaliação da solução proposta,Resultados,7,2800
+a hermeneutic analysis,Resultados,6,2799
+harpia,Outras,6,2797
+o cad-viatura,Outras,6,2796
+execução paralela baseada em dag com conflitos auto-verificáveis,Outras,6,2793
+biblioteca c++ para o problema qcars,Outras,6,2793
+titularidade e posse: o desejo de acumular recursos;,Outras,6,2792
+estado da arte,Trabalhos relacionados,7,2776
+análise de ferramentas de qualidade de dados,Resultados,6,2773
+justiça na utilização de recursos veiculares,Outras,6,2771
+configuração do estudo,Outras,6,2768
+problem description,Outras,7,2766
+heavy hitters em multi-pipes,Outras,6,2759
+tabela 3. métricas de avaliação de desempenho,Resultados,6,2757
+um novo olhar e perspectivas de pesquisa,Outras,6,2752
+intregrando iot e planejamento automatizado para economia de energia em um campus universitário,Outras,6,2741
+criação de canais lucrativos na rede relâmpago,Outras,6,2741
+o protocolo de consenso nsobft,Outras,6,2736
+modelo arquitetural de agente,Metodologia,6,2735
+question-answering focused tasks. with all necessary data available in either,Outras,6,2734
+tweet tokenization and pos tagging,Outras,6,2729
+paralelização cuda do algoritmo mps,Metodologia,6,2728
+modelagem,Outras,6,2724
+id pacie          idade do paciente,Outras,6,2722
+orquestração inteligente de funções de rede em contêineres para mitigação de anomalias,Outras,6,2716
+trabalho desenvolvido,Outras,6,2713
+basic concepts,Outras,6,2705
+json-extract,Outras,6,2700
+resultado,Resultados,6,2698
+método de localização proposto,Metodologia,6,2697
+dagora market,Outras,6,2689
+reflexos da transformação digital na educação p ública,Outras,6,2678
+the model,Metodologia,6,2678
+formulação matemática do problema,Outras,6,2672
+precav: um mecanismo de recuperação do serviço de pelotão de vacs,Outras,6,2670
+simulação: cenários e resultados,Resultados,6,2669
+configuration parameters and simulation results,Resultados,6,2663
+cenário ii: detecção de perı́odos de degradação do desempenho da rede,Resultados,6,2656
+deev: proposta para seleção de clientes adaptativa,Metodologia,6,2654
+aprendizado de máquina para identificação antecipada de botnets,Outras,6,2647
+dados cdr para análise social e de mobilidade,Resultados,6,2644
+there is only one instance of the same expert,Outras,6,2641
+model description,Metodologia,6,2638
+dynamic matrix partitioning system,Outras,6,2634
+avaliação do hurricane,Resultados,6,2628
+lw-coedge architecture,Metodologia,6,2626
+abordagem para identificação de usuários tóxicos,Metodologia,6,2626
+levantamento de ferramentas para big data geoespacial em iot,Outras,6,2623
+milt algorithm,Metodologia,6,2621
+retorne o ganho total acumulado pelo modelo e o mdd para esse intervalo,Metodologia,6,2621
+avaliação e análise de desempenho,Resultados,6,2620
+data synthesis and classification,Outras,6,2619
+proposed method for comparing text classifiers,Metodologia,6,2618
+c                   capacidade associada aos contêineres de migração,Outras,6,2610
+análise do tempo de inferência de imagens sem distorção,Resultados,6,2610
+abordagem empregada,Metodologia,6,2610
+fundamentos de replicação de dados,Trabalhos relacionados,6,2609
+"au         australia                             68,502    1,561,906   22.80",Outras,6,2606
+iot client evaluation (part 3),Resultados,6,2604
+resultados e discussões iniciais,Resultados,6,2599
+implementação da arquitetura hackinsdn,Metodologia,6,2593
+system architecture,Metodologia,6,2587
+introdução,Introdução,6,2576
+caracterização dos dados,Outras,6,2570
+estratégias propostas,Metodologia,5,2560
+arquitetura da plataforma datamap,Metodologia,5,2560
+as dez preocupações!,Outras,5,2560
+numerical results and discussions,Resultados,5,2557
+experiments and discussion,Resultados,6,2549
+previsão de falhas,Trabalhos relacionados,5,2546
+iniciativas similares,Trabalhos relacionados,5,2535
+the inter-moon approach,Metodologia,5,2534
+simulation results and analysis,Resultados,5,2519
+"model evaluation: finally, an analysis was carried out to understand the errors",Resultados,5,2518
+resultados empı́ricos,Resultados,5,2517
+método e protocolo,Metodologia,5,2510
+técnicas utilizadas,Outras,5,2510
+proposta de auditoria para redes móveis,Metodologia,5,2510
+vc        conexão entre rsu e vc controller,Outras,5,2509
+dikw4iot: construindo um grafo de conhecimento de dados iot baseado na hierarquia dikw,Outras,5,2508
+desenvolvimento do chatbot proposto,Metodologia,5,2507
+rsmdps e o modelo sir estocástico,Metodologia,5,2505
+análise dos algoritmos,Resultados,5,2505
+metodologias,Metodologia,5,2500
+dynamic semi-synchronous federated learning,Outras,5,2492
+soluções investigadas pela deposição primária,Outras,5,2482
+aplicação em dados reais de licitações p úblicas,Outras,5,2474
+contexto,Outras,7,2474
+sqgan: rede geneartiva adversarial quântica semi supervisionada,Outras,5,2470
+o escalonador proposto fair max rate (fmr),Metodologia,5,2469
+related concepts,Trabalhos relacionados,6,2468
+mitra: método de ofuscação do tráfego da rede iot,Metodologia,5,2461
+t800 -filtro de pacotes,Outras,5,2459
+sistema de localização indoor,Metodologia,5,2451
+descrição do experimento e resultados,Resultados,5,2447
+implicações da utilização do metaverso,Outras,5,2445
+the proposed framework,Metodologia,5,2443
+modelagem proposta,Metodologia,5,2441
+"abordagens propostas: rhgso, adhgso e bdhgso",Metodologia,5,2441
+convolution algorithms,Metodologia,5,2437
+a fire propagation model,Metodologia,5,2434
+o papel das relações sociais na conectividade das redes,Outras,5,2433
+modelagem do sistema e definição do problema,Metodologia,5,2433
+desenvolvimento do framework,Metodologia,5,2427
+analysis,Resultados,6,2427
+resolvendo o cubo mágico estendido: caminho mais curto de múltiplas fontes para múltiplos destinos via geração do estado auxiliar,Outras,5,2421
+orquestração dinâmica total de fatiamento de rede,Outras,5,2420
+a methodological approach to generate associative rules in massive mba datasets,Metodologia,5,2416
+rocho et al,Outras,6,2412
+protótipo e avaliação,Resultados,5,2411
+propostas para sistemas de recomendação culturalmente representativos,Metodologia,5,2408
+algoritmo e polı́ticas implementadas,Metodologia,5,2404
+coleta de metadados int em m últiplas filas,Outras,5,2404
+mecanismo de suporte a ancoragem segura de tpms virtuais,Outras,5,2404
+estudos relacionados,Trabalhos relacionados,6,2403
+fundamentação teórica e posicionamento do problema de pesquisa,Trabalhos relacionados,5,2401
+montagem de planos individuais;,Outras,5,2399
+c b,Outras,5,2397
+análises dos dados,Outras,5,2393
+análise de componentes,Resultados,5,2386
+uma arquitetura para aprendizado federado sobre redes rpl,Metodologia,5,2385
+a abordagem provgov-sos,Metodologia,5,2383
+o framework qualibus,Metodologia,5,2383
+a avaliação da proposta através de emulação,Resultados,5,2380
+análise das funcionalidades,Resultados,5,2380
+hybrid synchronization,Outras,5,2377
+comparison of architecture performance with baselines,Resultados,5,2377
+lições aprendidas,Outras,5,2376
+jornalismo de dados,Outras,5,2376
+clustering fusion training (cft),Outras,5,2375
+celebridades com covid-19: vinculam histórias falsas sobre celebridades com,Outras,5,2370
+problem definition,Metodologia,7,2370
+baixa     não exigida        75%,Outras,5,2369
+f-nids -federated network intrusion detection system,Outras,5,2368
+métricas para aplicações ciente do humano,Outras,5,2368
+descrição dos experimentos,Resultados,5,2362
+mapeamento multi-domı́nio bioinspirado no contexto da multi-sfc,Outras,5,2359
+abordagens propostas,Metodologia,5,2357
+metodologia experimental e resultados,Metodologia,5,2351
+políticas de alocação,Outras,5,2351
+treinamentos,Outras,5,2349
+sequoia: eficiência energética baseada em o-ran,Outras,5,2345
+o ems: sistema de gerenciamento de elemento,Metodologia,5,2335
+theoretical reference,Trabalhos relacionados,5,2333
+cbdgen: ferramenta para geração de dados sintéticos baseada em complexidade de dados,Outras,5,2333
+uma proposta para redução da subjetividade de s/r,Metodologia,5,2332
+plataforma de dados osdu,Outras,5,2331
+encadeamento de funções de rede entre m últiplas nuvens,Outras,5,2329
+análise comparativa e resultados,Resultados,5,2321
+tessarine and quaternion-valued deep neural networks,Outras,5,2321
+definições preliminares,Trabalhos relacionados,5,2318
+treinamento da rede dipa e avaliação dos resultados,Resultados,5,2315
+sistema de agrupamento hierárquico de clientes,Metodologia,5,2310
+desenvolvimento do jogo,Metodologia,5,2309
+experimental evaluation 4.1. datasets,Metodologia,5,2307
+classificação semântica,Outras,5,2304
+fontes de atributos,Outras,5,2298
+simulação e análise dos resultados,Resultados,5,2295
+"winograd schemas: the easy, the impossible, and the tough",Outras,5,2289
+aportes teóricos,Outras,5,2288
+uma arquitetura de alta disponibilidade para nfv,Metodologia,5,2284
+abordagem proposta: tuning metrics relevance feedback,Metodologia,5,2279
+inspeção semiótica do instagram,Outras,5,2276
+protocolo lator,Outras,5,2271
+a abordagem cl-raster,Metodologia,5,2269
+modelagem do problema de planejamento da rede,Outras,5,2265
+modelo para controle da propagação de doenças infecciosas,Metodologia,5,2262
+fundamentação teórica a e trabalhos relacionados,Trabalhos relacionados,5,2260
+dataset2vec para seleção de algoritmos,Metodologia,5,2258
+modelo do sistema e formulação do problema,Metodologia,5,2258
+the systematic literature mapping,Outras,5,2256
+sla exploitation,Outras,5,2255
+protocolos de disseminação de dados,Outras,5,2255
+dynamic configuration architecture (dca),Metodologia,5,2252
+estudos de casos,Resultados,5,2251
+explorando um processo de detecção de argumentos,Outras,5,2249
+estratégia b3c,Outras,5,2247
+conceitos teóricos e trabalhos relacionados,Trabalhos relacionados,5,2241
+metodologia para a avaliação experimental da modelagem de tópicos,Metodologia,5,2238
+fundamentos e estado da arte,Trabalhos relacionados,5,2238
+theoretical aspects,Trabalhos relacionados,5,2236
+arquitetura de orquestração proposta,Metodologia,5,2232
+fundamentação teórica-conceitual,Trabalhos relacionados,5,2229
+dilemas no uso de tecnologias de ia no contexto do processo administrativo,Outras,5,2225
+abordagem proposta baseada em pso com path relinking,Metodologia,5,2223
+análise de sensibilidade,Resultados,6,2222
+análise das mensagens,Resultados,5,2218
+avaliação da provgov-sos em um sos real,Resultados,5,2216
+mecanismo iamvt,Outras,5,2213
+resultado e discussões,Resultados,5,2211
+polı́tica de balanceamento de réplicas customizada,Outras,5,2210
+métodos e materiais,Metodologia,5,2210
+seact: semantic adaptive segmentation of sensors data streams,Outras,5,2209
+modelo de planejamento: análise desenvolvimento avaliação modificação,Metodologia,5,2208
+um filtro baseado na mediana foi usado anteriormente em [kim et al. 2006],Outras,5,2202
+dtmcash,Outras,5,2201
+pipeline de desenvolvimento e implicações relacionadas,Trabalhos relacionados,5,2200
+definições,Outras,5,2197
+coordenação de múltiplos eventos críticos de saúde,Outras,5,2195
+network intrusion classification system,Outras,5,2193
+o aluno preenche o formulário com seus dados e preferências de estudo;,Outras,5,2191
+o método proposto para extração de caracterı́sticas espectrais,Metodologia,5,2189
+estratégia de migração de serviços em arquiteturas mec,Metodologia,5,2183
+procedimentos experimentais,Resultados,5,2180
+"an ensemble architecture for the identification of depression, anxiety and comorbidity",Metodologia,5,2180
+arquitetura do sistema,Metodologia,5,2179
+modelos probabilísticos de tópicos,Metodologia,5,2176
+experimental setup and results,Metodologia,5,2170
+abordagens para cálculo de p q e p q∗,Outras,5,2165
+resultados computacionais,Resultados,5,2164
+otimização por busca em grupo (gso),Outras,5,2163
+preprocessing rules,Outras,5,2156
+arquitetura,Metodologia,5,2156
+introdução e contextualização,Introdução,5,2154
+modelos spns propostos,Metodologia,5,2148
+aplicação proposta,Metodologia,5,2145
+sistema de detecção,Metodologia,5,2140
+"we evaluate our approach across real-world datasets from varied domains, using",Metodologia,5,2138
+prova de conceito -curso de redação com elementos de gamificação,Metodologia,5,2134
+buffer de entrada,Outras,5,2127
+hyperpaxos: paxos em múltiplas instâncias sobre o vcube,Outras,5,2125
+abordagem sotaru: concepção,Metodologia,5,2124
+uma representação gráfica para edmms,Outras,5,2123
+o mecanismo proposto de alocação dinâmica de banda,Metodologia,5,2122
+mapeamento e simulação de emoções fuzzy em circuitos quânticos,Outras,5,2122
+length_stop,Outras,5,2122
+modelos para predição de churn,Metodologia,5,2117
+trabalhos relacionados e conceitos fundamentais,Trabalhos relacionados,5,2116
+gerenciamento de anomalias,Outras,5,2116
+arquitetura proposta para avaliação,Resultados,5,2114
+detalhamento das soluções investigadas,Outras,5,2113
+métodos para avaliação das curvas de bloqueio,Metodologia,5,2113
+resultados panorâmicos e detalhados,Resultados,5,2112
+x            attribute vector set,Outras,5,2109
+avaliação do arcabouço,Resultados,5,2107
+state of the art,Trabalhos relacionados,7,2103
+estudo experimental,Resultados,5,2099
+x n,Outras,5,2096
+discussion and conclusion,Conclusão,6,2096
+motivação e trabalhos relacionados,Introdução,5,2093
+o sistema proposto user-based evil twin attacks detection system (uetads),Metodologia,5,2083
+ottx: one-time transactions,Outras,4,2048
+o disque denúncia,Outras,4,2048
+ambiente experimental proposto para transmissão de vı́deo volumétrico,Resultados,4,2048
+ética e afins,Outras,4,2048
+aprendizado de máquina colaborativo,Outras,4,2048
+hipergrafos,Outras,4,2048
+análise do conjunto de dados relacionados ao iptu no município de fortaleza,Trabalhos relacionados,4,2048
+aprendizado de máquina quântico híbrido,Outras,4,2048
+etapa 1 -aplicação de técnicas de mineração de dados aos dados sintéticos originais,Outras,4,2048
+impacts on db systems,Outras,4,2048
+análise das políticas de privacidade,Resultados,4,2048
+linear non-convex combination,Outras,4,2048
+modelo para qualificação de perfil de contribuinte do iptu,Metodologia,4,2047
+conjunto de dados e metodologia,Metodologia,4,2039
+comparando modelos de inferência,Metodologia,4,2038
+revisões teóricas e da literatura,Outras,4,2037
+report,Outras,4,2034
+bases de dados,Outras,4,2033
+method evaluation,Metodologia,4,2032
+action research method,Metodologia,4,2032
+ddsm: data dependent itemset mining,Outras,4,2031
+proposal: one-class multimodal event detection,Metodologia,4,2030
+sistema proposto de gerenciamento de rede baseado em intenções,Metodologia,4,2030
+fluxo de dados,Outras,4,2029
+patterns discovery,Outras,4,2028
+componente de nome nds e política dsppc,Outras,4,2028
+id  id   id,Outras,4,2027
+metodologia e configuração dos experimentos,Metodologia,5,2026
+proposta de mecanismo dinâmico,Metodologia,4,2018
+kaspafog,Outras,4,2018
+research methodology,Metodologia,5,2016
+"avaliação do sistema: após a realização da detecção do ataque, é feita a coleta",Resultados,4,2015
+modelos,Metodologia,4,2014
+proposed ids,Metodologia,4,2010
+the proposed persuasive design framework,Metodologia,4,2004
+software platforms for data integration in smart cities,Outras,4,2003
+arquitetura vclass,Metodologia,4,2000
+ataque black hole repeater,Outras,4,1998
+modelo spn proposto,Metodologia,4,1996
+experimentos realizados,Resultados,4,1993
+o capital social acumulado apresentado na coluna 9 foi obtido pela multiplicação do,Outras,4,1993
+use cases,Resultados,4,1993
+mecanismo de fusão de dados para localização cooperativa,Outras,4,1990
+proposta de,Metodologia,4,1989
+estudo de casos,Resultados,4,1986
+pré-processamento,Outras,4,1984
+avaliação de desempenho de casos de uso,Resultados,4,1983
+descrição dos dados,Outras,5,1980
+aplicação i: detecção de ataques ddos,Outras,4,1976
+sistema eletrônico de informações,Metodologia,4,1974
+experimentos e coleta de dados,Resultados,4,1968
+entrega do serviço: o cliente recebe acesso à rede privativa contratada. o ciclo,Outras,4,1967
+redes ópticas elásticas e o problema da seleção da banda de guarda,Outras,4,1966
+mastermobilitydb,Outras,4,1964
+comunicação quântica,Outras,4,1960
+caracterização do problema,Outras,4,1955
+only one substation and one transmission line can be modified in 2 consecutive time,Outras,4,1955
+construção da base de dados,Metodologia,5,1953
+multi-level stacking,Outras,4,1953
+sunflowerapp,Outras,4,1952
+solução de monitoramento de sla baseado em blockchain,Metodologia,4,1950
+alocação do espectro,Outras,4,1950
+soluções de roteamento ciente da área,Outras,4,1949
+capacitação digital para microempreendedores artesãos e cooperados catadores,Outras,4,1945
+top-k reverso privado,Outras,4,1943
+fundamentals and related work,Trabalhos relacionados,5,1941
+modelo spn não absorvente,Metodologia,4,1938
+medições de qualidade em plataformas webrtc,Outras,4,1936
+processo de anotação,Outras,4,1928
+avaliação experimental do mts-polka,Resultados,4,1928
+arquitetura proposta: lstm empilhada,Metodologia,4,1926
+resultados encontrados,Resultados,4,1923
+metodologia e modelagem teórica,Metodologia,4,1918
+"materiais, métodos e métricas",Metodologia,4,1917
+problema do roteamento e alocação de espectro ciente da área,Outras,4,1915
+análise dos erros dos modelos,Resultados,4,1915
+análise de bases de dados e aplicação de sistemas de detecção de intrusão,Resultados,4,1915
+"creation of the svm, xgboost, and ensemble models with cross-validation and",Resultados,4,1913
+cfc: covid-19 fast check,Outras,4,1907
+detecting and fusing duplicate features,Outras,4,1905
+i ← d;,Outras,4,1903
+evaluation of the container provenance model with the denseed workflow,Resultados,4,1903
+algoritmo apache,Metodologia,4,1902
+challenges,Outras,4,1900
+modelo de simulação de uma rede neural artificial,Metodologia,4,1899
+smart: motor de busca inteligente para filtragem e recuperação de,Outras,4,1899
+preanote,Outras,4,1899
+redes ópticas elásticas com multiplexação sdm,Outras,4,1896
+a two-tiered logic kb approach,Metodologia,4,1890
+o módulo divescan,Outras,4,1890
+applications,Outras,4,1889
+ehlo interest: /localhop/ndvr/ehlo/ufba/%c1.router/routerb/1/2/dz,Outras,4,1887
+opinamais,Outras,4,1886
+d                                      e,Outras,4,1886
+revisão de literatura e trabalhos relacionados,Trabalhos relacionados,4,1886
+estudo de viabilidade,Outras,4,1886
+an efficient method for model compression under pfl scenarios,Metodologia,4,1883
+data design pattern for constructing ekg's semantic views,Outras,4,1883
+behavioral biometrics for authentication and user identification using federated learning,Outras,4,1882
+procedimentos e metodologia,Metodologia,4,1880
+estratégia de agendamento de purificação híbrida,Outras,4,1880
+mission algorithm,Metodologia,4,1878
+automação da migração de vms,Outras,4,1876
+proposta de sensoriamento com cadeias de markov,Metodologia,4,1875
+experimentação e avaliação,Resultados,4,1875
+análise exploratória,Resultados,4,1873
+abordagem diferencialmente privada para dados de tráfego de rede,Metodologia,4,1866
+problema de atribuição de potência por circuito,Outras,4,1864
+o ambiente de desenvolvimento e testes,Metodologia,4,1864
+algoritmo de alocação de,Metodologia,4,1861
+fdmr-mac: reserva de canal,Outras,4,1861
+introducing the lgpd framework,Introdução,4,1860
+roteamento no cubo mágico,Outras,4,1859
+experimentação e avaliação do mm-int,Resultados,4,1858
+materials & methods,Metodologia,4,1853
+the addressed predictor models,Outras,4,1852
+the methodology for rainfall forecasting,Metodologia,4,1851
+an evaluation of how effective our self-tuning tools are and how much they can,Resultados,4,1850
+pdtopsis-sort,Outras,4,1849
+séries temporais e detecção de eventos,Outras,4,1847
+redes ópticas elásticas com multiplexação por divisão espacial,Outras,4,1847
+configuração experimental,Metodologia,5,1842
+algoritmos de clustering baseados em amostragem,Metodologia,4,1839
+aplicações para multimı́dia,Outras,4,1839
+implementation and evaluation,Resultados,5,1837
+experiment and analysis,Resultados,4,1836
+correção de traços de monitoração usando aprendizado profundo,Outras,4,1834
+experimentos com modelos de linguagem abertos,Resultados,4,1832
+characterization of hyperscn over time,Outras,4,1832
+trabalhos futuros,Conclusão,6,1831
+testes e resultados,Resultados,4,1830
+p4ebalancer design,Outras,4,1825
+o modelo fluidodinâmico,Metodologia,4,1823
+geração dos conjuntos de dados,Outras,4,1823
+proposed framework: md-ases,Metodologia,4,1823
+fire propagation model adjustment,Metodologia,4,1818
+estudo preliminar,Trabalhos relacionados,4,1818
+midet -a method for indexing traffic data,Metodologia,4,1818
+gorim,Outras,4,1817
+identificando verificadores (checkers),Outras,4,1817
+granger causality analysis,Resultados,4,1813
+socialroute,Outras,4,1812
+v p + fp + v n + fn,Outras,4,1811
+implementação sobre a libpaxos e resultados,Resultados,4,1808
+pipeline de video analytics,Outras,4,1807
+análise da robustez de algoritmos de aprendizado de máquina em bases de dados de triagem de autismo com erros,Resultados,4,1805
+bem-te-vejo: aplicação para análise de dados,Resultados,4,1803
+seleção de caracterı́stica multiobjetivos proposta,Metodologia,4,1800
+coleta dos dados,Outras,4,1799
+problemas em aberto,Outras,4,1799
+métodos desenvolvidos,Metodologia,4,1796
+rbcml,Outras,4,1794
+multimodal graph-based consensus pseudolabeling,Outras,4,1793
+o alquimista paulo coelho      postmodernism               8 0.25     5    51 -0.51     0.04 normal,Outras,4,1792
+"implementação, avaliação e resultados",Resultados,4,1786
+resultados experimentais e discussões,Resultados,4,1785
+tabela 2. comparativo de trabalhos relacionados trabalho relacionado,Trabalhos relacionados,4,1784
+anonimização dinâmica por separatriz,Outras,4,1783
+analysis of temporal evolution of complex data,Resultados,4,1780
+tabela 1. métricas de avaliação de desempenho,Resultados,4,1779
+trabalhos relacionados: blockchain e sociedade,Trabalhos relacionados,4,1775
+heurística baseada em grafo para a ativação de vbbus e dimensionamento do fronthaul,Outras,4,1774
+estado contra o absolutismo na tributação,Outras,4,1772
+planejamento individual de cada agente. havendo falhas cada agente pode realizar,Outras,4,1770
+algoritmos explorados,Metodologia,4,1764
+brazilian readers' data at goodreads,Outras,4,1764
+solver with llm: process reasoning through the rules graph starting from the,Outras,4,1760
+automl pipeline for llm tuning,Outras,4,1759
+referencial,Trabalhos relacionados,4,1758
+tax evasion detection system,Outras,4,1758
+the query answer modification process,Outras,4,1758
+análise dos resultados de correlação,Resultados,4,1757
+jogo sobre esportes adaptados: o parajecripe,Outras,4,1754
+extrinsic evaluation,Resultados,4,1754
+arquitetura de redes em malha sem fio com confiança zero proposta,Metodologia,4,1749
+manage and forward results for presentation to the user,Resultados,4,1745
+método de construção do dataset,Metodologia,4,1745
+aplicação do versatile e análise dos resultados,Resultados,4,1745
+detecção de anomalias,Outras,4,1743
+desfragmentação baseado em janela de slots,Outras,4,1740
+"arquitetura do sistema ""plenário virtual""",Metodologia,4,1740
+hipercubo de vulnerabilidade,Outras,4,1736
+federação com ponderação através de influência e preservação do conhecimento,Outras,4,1732
+encoder para aprendizado de métrica de distância supervisionado com espaço de similaridade adaptado para séries temporais (smell-ts),Outras,4,1727
+redes neurais profundas com saı́das antecipadas,Outras,4,1725
+oms data/resource synchronization is potentially subject to network conditions,Outras,4,1725
+experiment and results,Resultados,4,1725
+anew multidimensional measure for assessing the quality of diversified similarity,Outras,4,1723
+solving inconsistencies in dbpedia updates,Outras,4,1718
+our evaluation includes comparing the new version of atyimo with the legacy version presented in,Resultados,4,1715
+principais conceitos,Trabalhos relacionados,4,1714
+arquitetura para escalonamento de switches programáveis virtuais,Metodologia,4,1714
+ajuste de parâmetros pid com rl,Outras,4,1714
+provincia,Outras,4,1714
+tokenização (quebrar as sentenças em palavras),Outras,4,1712
+"introdução e gatinhos, pois todo mundo ama gatinhos",Introdução,4,1712
+"vp investimento p,d&i por mês (r$) (mil): valor em reais (r$) destinado",Outras,4,1711
+desafios dos vieses culturais nas recomendações e suas implicações para a etnoeducação,Outras,4,1710
+planejamento de experimentos,Resultados,4,1710
+classificação de notı́cias falsas em lı́ngua portuguesa,Outras,4,1709
+x s,Outras,4,1705
+"propose a solution to the issue addressed, showing respect for human values",Metodologia,4,1704
+conceptualization,Outras,5,1702
+figura 1. estrutura da metodologia proposta,Metodologia,4,1702
+método adotado,Metodologia,4,1701
+análise de sentimentos,Resultados,4,1697
+implementation and tests,Metodologia,4,1696
+experimental design and materials,Resultados,4,1694
+simulando cenários,Outras,4,1693
+criação do dataset,Metodologia,4,1692
+d                  d,Outras,4,1691
+o sistema galena,Metodologia,4,1691
+reinforcement learning solution,Metodologia,4,1691
+reflexões,Outras,4,1690
+system model and problem statement,Metodologia,4,1690
+ética computacional e representações gráficas,Outras,4,1687
+resultados formais,Resultados,4,1686
+arquitetura hierárquica de fusão de dados em névoa,Metodologia,4,1685
+detecção de discurso de ódio,Outras,4,1682
+avaliação em sistemas de recomendação,Resultados,4,1680
+experiments and practical evaluation,Resultados,4,1676
+proposed architecture,Metodologia,4,1675
+evaluation           figura 4.3: processo de aplicação das constraints,Resultados,4,1673
+reducing log state,Outras,4,1672
+data drift detection,Outras,4,1671
+problema de fraude financeira e a classificação hierárquica,Outras,4,1669
+proposal: coffee,Metodologia,4,1668
+logistics and delivery,Outras,4,1665
+research design and methods,Metodologia,4,1663
+conciliação da arquitetura de confiança zero e redes em malha sem fio,Metodologia,4,1662
+visualização de grafos de conhecimento,Outras,4,1660
+polı́ticas de alocação de recursos avaliadas,Resultados,4,1659
+brazilian indigenous languages,Outras,4,1654
+arquitetura e funcionalidades da proposta,Metodologia,4,1652
+"investimento p,d&i por mês (r$) (mil): valor destinado obrigatoriamente a",Outras,4,1650
+caracterização dos ecossistemas de colaboração,Metodologia,4,1650
+strategies for using spatial approximations to optimize spatial queries,Outras,4,1649
+a model for a distributed cep platform,Metodologia,4,1645
+iot pd-rpm : concepção e funcionalidades,Outras,4,1631
+avaliação com usuários,Resultados,4,1630
+the proposed model,Metodologia,4,1630
+implicações para a saúde: relatos e discussão,Resultados,4,1628
+sea design and implementation,Metodologia,4,1626
+vulnerabilidades do ss7 e caracterização dos ataques,Outras,4,1625
+dengue em fortaleza,Outras,4,1622
+strategies for metadata management in data mesh ecosystems,Outras,4,1621
+trabalhos relacionados e motivação,Trabalhos relacionados,4,1619
+v      voip         e     email,Outras,4,1617
+applying the systematic mapping methodology,Metodologia,4,1617
+classificador,Outras,4,1612
+método de trabalho,Metodologia,4,1610
+proposed parallel strategy,Metodologia,4,1610
+apache hadoop,Outras,4,1608
+mtd adaptive delay system -mads,Outras,4,1607
+balanceamento de conjuntos de dados com sobre e subamostragem,Outras,4,1605
+protecting,Outras,4,1604
+"aplicação do processo de lematização, onde cada termo é substituído por sua",Outras,4,1604
+a construção do hash 3d,Outras,4,1604
+concepts and related work,Trabalhos relacionados,4,1602
+concordância de características caixa-preta baseada em explicabilidade,Outras,4,1600
+a abordagem birdbscan,Metodologia,4,1600
+the yelp dataset contains ratings and reviews about companies and services. as it,Metodologia,4,1600
+implementação e avaliação,Resultados,4,1598
+resultados e avaliação dos modelos,Resultados,4,1598
+visão geral da metodologia de redes neurais para cc,Metodologia,4,1597
+methodologies,Metodologia,4,1594
+mineração de argumentação,Outras,4,1591
+metodologia utilizada para avaliação da observabilidade,Metodologia,4,1589
+uso consciente das tecnologias digitais,Outras,4,1586
+universal approximation theorem for tessarine-valued neural networks,Outras,4,1586
+case study: ubiquitous interactive installations in a museum,Resultados,4,1582
+implementação do algoritmo xote em pdp,Metodologia,4,1581
+sovereignty of countries,Outras,4,1580
+pit.insert(interesse);,Outras,4,1578
+methodological procedures,Metodologia,4,1576
+simulação dos modelos propostos,Metodologia,4,1576
+avaliação experimental da arquitetura proposta,Resultados,4,1575
+o conjunto de better influencers restrito a grafos inflados,Outras,4,1575
+conceitos básicos e motivação,Trabalhos relacionados,4,1572
+modelo de sistema e formulação do problema,Metodologia,4,1571
+modelos híbridos,Metodologia,4,1571
+as linhas que possuem etapas 5 e 4 (tabela 4) onde os valores da coluna tempo,Outras,4,1568
+o agente armazena os svids em cache,Outras,4,1568
+formulação do problema,Outras,4,1562
+experimental analysis,Resultados,4,1554
+feasibility study,Outras,3,1536
+a microservice architecture for data integration in smart cities,Metodologia,3,1536
+w ←,Outras,3,1536
+exploratory analysis,Resultados,3,1536
+modelos spn,Metodologia,3,1536
+c            c,Outras,3,1536
+real-time anomaly-based ids for can,Outras,3,1536
+modelagem do problema,Outras,3,1536
+ferramenta proposta,Metodologia,3,1536
+implementação e resultados experimentais,Resultados,3,1536
+dynamic int algorithm,Metodologia,3,1536
+while streaming data is available,Outras,3,1536
+histórico do evento,Outras,3,1536
+método para rotas alternativas seguras,Metodologia,3,1536
+mais seguro      fim de semana       sim,Outras,3,1536
+percepção dos produtores e modelo comportamental,Metodologia,3,1536
+outras observações do avaliador,Resultados,3,1536
+methods and data,Metodologia,3,1536
+governments interventions in favour or against preventing the spread of the virus,Outras,3,1536
+etapa 6: as saídas da llm são armazenadas para comparação com as referências,Outras,3,1536
+framework instantiation and self-tuning strategy evaluation,Resultados,3,1536
+uma análise do parajecripe na perspectiva socioenativa,Resultados,3,1536
+"as the figure presents, tabular data indexed by time and heat variables (production",Outras,3,1536
+mdl-44128,Outras,3,1536
+implementação do modelo diferencialmente privado,Metodologia,3,1536
+mobilenetv2. caracteriza-se por ser uma arquitetura especialmente voltada para a,Metodologia,3,1534
+arquitetura do cacic,Metodologia,3,1531
+"mosquito-borne arboviruses, african, saliva",Outras,3,1530
+processamento da língua planificada esperanto,Outras,3,1526
+"por fim, o agente repassa ao honeypot a resposta alterada pela llm, que será",Outras,3,1525
+materiais e método,Metodologia,3,1523
+automatic fuzzy system design,Outras,3,1521
+o método mandrake,Metodologia,3,1520
+experimento preliminar,Trabalhos relacionados,3,1519
+implementação e validação,Resultados,3,1518
+algoritmo genético (ag),Metodologia,3,1514
+descrição do sistema,Metodologia,4,1509
+abordagem proposta: minerva,Metodologia,3,1507
+tabela 3. resultados consolidados dos comit ês de classificação,Resultados,3,1507
+a ferramenta aicodereview,Outras,3,1507
+atualiza-se o perfil de distância com os valores mínimos encontrados,Outras,3,1506
+intelligent routing for optical networks -iron,Outras,3,1505
+background and methodology,Trabalhos relacionados,4,1504
+modbertbr,Outras,3,1504
+plataforma para análise e publicação de processos eletrônicos,Resultados,3,1503
+concepts and theoretical background,Trabalhos relacionados,3,1499
+paxos and its variations,Outras,3,1495
+a abordagem aether,Metodologia,3,1494
+análise de sentimentos de tweets sobre a covid-19,Resultados,3,1493
+semelhanças com aces,Outras,3,1490
+extension to the gdpr data provenance model,Metodologia,3,1490
+id         name                       major                 units                  time                     lecturer,Outras,3,1489
+simulação de roteamento interdomı́nio e sequestros de prefixo,Outras,3,1489
+assesment of the pom2s effectiveness,Outras,3,1489
+chatgpt api. esse componente representa a camada externa do plugin. trata-se do,Outras,3,1488
+aprendizado por reforço profundo,Outras,3,1487
+multivariate time series classification,Outras,3,1487
+dnn com saídas antecipadas através de multi-armed bandits,Outras,3,1486
+os filtros propostos e sua combinação se mostraram adequados?,Metodologia,3,1485
+conjunto de dados openimages cyclists,Metodologia,3,1483
+visão geral do sociable,Outras,3,1483
+modelo proposto para recomendação de amizades,Metodologia,3,1482
+llmusic: modelagem de tópicos em m úsicas com prompt engineering e bertopic,Outras,3,1481
+o problema de broadcast storm no processo de descoberta de cache em vndn,Outras,3,1481
+tabela 5. resultados do ablation study,Resultados,3,1480
+letramento digital,Outras,3,1479
+uma proposta de modelo hı́brido para predição do nı́vel de água,Metodologia,3,1476
+framework fuzzy proposto,Metodologia,3,1476
+métodos tradicionais de detecção de mudanças,Metodologia,3,1473
+cvql: uma linguagem de consulta para visualização de agrupamentos,Outras,3,1473
+entropy analyses,Resultados,3,1473
+estratégia proposta,Metodologia,3,1471
+"topic analysis: to conclude the interaction with the user, the llm produces an",Resultados,3,1471
+"densenet              136               densenet           106,72",Outras,3,1468
+caracterização da base de dados,Metodologia,3,1467
+arcabouço para processamento massivo de dados multi-sistema,Metodologia,3,1466
+legado digital,Outras,3,1465
+vm. the vms containing the applications were mininet hosts with iperf3 installed,Outras,3,1459
+conceitos básicos da computação quântica,Trabalhos relacionados,3,1459
+descrição do problema e trabalhos correlatos,Trabalhos relacionados,3,1456
+casos de uso,Outras,3,1456
+data understanding and preparation,Outras,3,1454
+"objectives, data and methods",Metodologia,3,1453
+distributional safe stochastic latent actor-critic,Outras,3,1453
+c                          defeitos de rolamento no mancal la                                               24,Outras,3,1452
+ecossistemas de colaboração,Metodologia,3,1450
+approximate similarity join algorithms,Metodologia,3,1447
+experimental protocol 4.1. datasets and preprocessing,Metodologia,3,1447
+construção do conjunto de dados anotados,Metodologia,3,1447
+our barcode panel approach to detecting floods,Metodologia,3,1441
+fundamentação teórica e conceitos importantes,Trabalhos relacionados,3,1438
+ind+pin: only the complete and partial indexes specialists are enabled,Outras,3,1436
+versões desenvolvidas,Outras,3,1435
+detecção de clientes maliciosos com modelos privados,Metodologia,3,1435
+arquitetura proposta para multicast vlc,Metodologia,3,1434
+cenário analisado,Resultados,3,1432
+roteamento interdomı́nio e sequestros de prefixo,Outras,3,1431
+resultados de produtos inteligentes na méliuz,Resultados,3,1428
+arquitetura da solução,Metodologia,3,1425
+proposta de avaliação unificada e metodologia de testes,Metodologia,3,1425
+system model and problem formulation,Metodologia,3,1423
+a decision support system to assist gp candidates' assessments,Outras,3,1423
+a ferramenta viaipê e o conjunto de dados,Metodologia,3,1422
+redes de petri e modelo proposto,Metodologia,3,1420
+experimental study,Resultados,3,1420
+kappa updated ensemble com pré processamento,Outras,3,1418
+metodologia de execução,Metodologia,4,1413
+redes neurais convolucionais com filtro de bloom,Outras,3,1413
+general pipeline,Outras,3,1413
+conjunto de dados de compósitos unidirecionais,Metodologia,3,1412
+experimentos e avaliações,Resultados,3,1412
+métricas proposta,Metodologia,3,1409
+db-smigra: um workflow para migração inteligente de bancos de dados,Outras,3,1407
+análise do perfil de uso da internet pelos usuários,Resultados,3,1407
+agents4gov framework,Metodologia,3,1407
+multibit-trees,Outras,3,1406
+implementação e resultados,Resultados,3,1404
+workflow containerization and current provenance support,Outras,3,1404
+cardiotocography                10       21           2126       0.476           0.005,Outras,3,1403
+arquitetura hackinsdn,Metodologia,3,1403
+modelo de aplicação e arquitetura,Metodologia,3,1402
+algoritmos de mapeamento do modelo conceitual para modelo lógico,Metodologia,3,1399
+"cj f˄q (8, 7)            10     cj f˄q (9, 7)         10     cj f˄q (6, 9)",Outras,3,1397
+tabela 3 -regras de validação utilizadas e resultados do processo de anotação,Resultados,3,1395
+ameaças à validade,Outras,4,1395
+ecg-resnext,Outras,3,1394
+na tabela 1 são apresentados os resultados das duas primeiras simulações,Resultados,3,1394
+algoritmos propostos de controle de congestionamento,Metodologia,3,1392
+considerações e trabalhos futuros,Conclusão,4,1389
+algoritmo de agrupamento distribuído por similaridade com vantage,Metodologia,3,1388
+herd identification from the air,Outras,3,1387
+"construção da ferramenta ""de olho na isca""",Outras,3,1386
+análise exploratória dos dados,Resultados,3,1384
+avaliação dos resultados,Resultados,3,1384
+aprendizado federado para auxiliar a associação otimizada,Outras,3,1383
+business challenges and adopted solutions for busca360,Metodologia,3,1383
+"dados reduzidos ← function(dia, jmin)",Outras,3,1382
+the global cep manager,Outras,3,1381
+protocolo ndvr,Outras,3,1380
+geração do grafo de transações a partir da rede bitcoin,Outras,3,1380
+algoritmo de agrupamento distribuído por similaridade (dsg),Metodologia,3,1378
+análise teórica,Resultados,3,1374
+modelo de mobilidade,Metodologia,3,1373
+aghe -approach for generating enhanced heterogeneous embeddings,Metodologia,3,1373
+theoretical background and related work,Trabalhos relacionados,3,1371
+case study results,Resultados,3,1369
+"projeto ""cartilha de segurança e privacidade digital""",Outras,3,1368
+tcpbp,Outras,3,1366
+arquitetura de dimensionamento adaptativo com suporte ao aprendizado,Metodologia,3,1365
+decoupled logging,Outras,3,1365
+framework de contrainteligência,Metodologia,3,1364
+abordagem proposta: é-dl,Metodologia,3,1363
+"os dois dronepontos operam independentemente. o algoritmo proposto garante que,",Metodologia,3,1361
+a sustentabilidade da ia,Outras,3,1358
+implementation and results,Resultados,3,1354
+método de pesquisa,Metodologia,3,1354
+trabalhos realizados,Outras,3,1349
+análise dos modelos de classificação,Resultados,3,1349
+xai for criticality classifiers of crs,Outras,3,1349
+contextualização e motivação,Outras,3,1347
+application and practical deployment,Outras,3,1345
+"holmes: holistic, lightweight and malleable ems solution",Metodologia,3,1345
+mecanismo para aprovisionamento de identidade,Outras,3,1339
+pre-trained language models,Outras,3,1339
+helix-siot: abordagem proposta,Metodologia,3,1337
+hiper-heurı́stica proposta para o pqa,Metodologia,3,1336
+eprs,Outras,3,1335
+a plataforma di@ deve permitir que entrevistas enviadas à base de dados sejam,Metodologia,3,1334
+materiais e m étodos,Metodologia,3,1332
+estratégia para alocação de carteira de ações,Outras,3,1332
+embasamento teórico,Outras,3,1329
+ackalertreceived ← f alse,Outras,3,1327
+desenvolvimento e avaliação de desempenho de um protótipo do sistema,Metodologia,3,1327
+imat,Outras,3,1327
+data replication and replica placement in hdfs,Outras,3,1327
+repurposing language models for spatial trajectory similarity assessment,Outras,3,1326
+stemming (ou stemização): é um processo de transformação de uma palavra na sua,Outras,3,1325
+fastest-first federated learning (3fl),Outras,3,1325
+análise das equipes entrevistadas,Resultados,3,1325
+resultados experimentais qp1,Resultados,3,1325
+multiobjective cartesian genetic programming (mocgp),Outras,3,1324
+application of post-processing techniques;,Outras,3,1324
+the channel-aware transmission power allocation algorithm,Metodologia,3,1323
+case study: building the semantic view 'sv music',Resultados,3,1321
+fundamentação teórica e metodologia,Trabalhos relacionados,3,1321
+rollups na ethereum,Outras,3,1320
+exemplos numéricos,Outras,4,1320
+id      ms(%)    nm(%)        nrc    ms(%)        nm(%)       nrc    ms(%)     nm(%)      nrc,Outras,3,1319
+cases studies,Outras,3,1319
+applying fca to lgpd,Outras,3,1318
+formulações milp,Outras,3,1315
+a genetic programming hyperheuristic approach for profile reduction of symmetric matrices,Metodologia,3,1315
+plsum: portuguese long summarizer,Outras,3,1315
+needed concepts from spatial database systems and gis,Outras,3,1314
+visão geral de redes neurais,Outras,3,1313
+método experimental para contrastar o resultado das eleições com dados do twitter,Metodologia,3,1311
+modelagem e desenvolvimento do preditor estatı́stico,Metodologia,3,1311
+anonimização de dados de saúde via privacidade diferencial,Outras,3,1310
+geoiod: protocolo geocast para internet dos drones,Outras,3,1310
+privacidade diferencial,Outras,3,1309
+"a rmazenar dado(pkt.id, dado)",Outras,3,1306
+order by c.name;,Outras,3,1304
+cifras de fluxo,Outras,3,1303
+the ontology-based approach,Metodologia,3,1303
+alocação de recursos colaborativa e gerenciamento de filas na borda,Outras,3,1302
+introdução e referencial teórico,Introdução,3,1302
+abordagem proposta: landevol-prov,Metodologia,3,1300
+alguns desafios de pesquisa,Outras,3,1299
+radiation       global radiation (kj/m²),Outras,3,1295
+metodologia da análise experimental considerando a mde,Metodologia,3,1295
+metodologia dados,Metodologia,3,1295
+proposta para geração dos modelos,Metodologia,3,1294
+sı́ntese de dados,Outras,3,1294
+songs' network modeling,Outras,3,1293
+fluxo de execução,Outras,3,1292
+aprendizado por reforço somático,Outras,3,1291
+implementation and validation,Resultados,3,1289
+conclusão e direções futuras,Conclusão,4,1285
+simulação da propagação de covid-19 em ibirama,Outras,3,1285
+tests and results,Resultados,3,1285
+goodness-of-fit schema evolution methodology,Metodologia,3,1284
+limitations,Outras,7,1283
+proposed approach: instructor,Metodologia,3,1282
+"background, definitions and related work",Trabalhos relacionados,3,1277
+metaverso,Outras,3,1276
+revisão do lora,Trabalhos relacionados,3,1276
+configuração do ambiente e dos experimentos,Resultados,3,1274
+research opportunities,Outras,3,1273
+trabalho experimental,Resultados,3,1271
+sistemas gerenciadores de legado digital,Metodologia,3,1271
+recomendação zero-shot de próximo item,Outras,3,1270
+fundamentals of neural architecture search,Trabalhos relacionados,3,1269
+avaliação do sistema,Resultados,3,1268
+approach to construction of the metadata graph,Metodologia,3,1266
+implementação do datamap,Metodologia,3,1264
+análise de tráfego das aplicações multimídia,Resultados,3,1262
+avaliação preliminar de desempenho,Trabalhos relacionados,3,1261
+métodos para a modelagem de tópicos,Metodologia,3,1258
+formulação pli considerada para a relaxação,Outras,3,1257
+o método versatile,Metodologia,3,1257
+model development,Metodologia,3,1255
+descrição do fluxo geral da solução proposta,Metodologia,3,1254
+a indústria de jogos e o crunch,Outras,3,1253
+experimento e resultados,Resultados,3,1251
+implemented prototype,Outras,3,1249
+o caso do observatório universal de projetos,Outras,3,1245
+vvc qp 37 av1 cq 55,Outras,3,1244
+"finally, create a complete graph of the agent’s reward over time for each level",Outras,3,1243
+context reasoning faithful framework,Metodologia,3,1243
+políticos do brasil                  pro_lula,Outras,3,1242
+fundamentação teórica e conceitual,Trabalhos relacionados,3,1241
+impactos da discriminação de gênero na sociedade,Outras,3,1241
+flatnet,Outras,3,1241
+remits: resilient mist-based iot solution,Metodologia,3,1237
+detecção de clientes maliciosos no fl,Outras,3,1236
+application scenario,Outras,3,1235
+results and general diagnostic,Resultados,3,1234
+"exportar mapas e tabelas em arquivo com as informações dos percursos,",Outras,3,1233
+estudo de caso: sbrc 2019,Resultados,3,1231
+estimação do consequente,Outras,3,1231
+metodologia e análise,Metodologia,3,1229
+correlation analysis,Trabalhos relacionados,3,1228
+the growing self-organizing map,Outras,3,1226
+metodologia e método de pesquisa,Metodologia,3,1223
+climatology and statistical learning,Outras,3,1222
+discussão e consolidação dos resultados alcançados,Resultados,3,1218
+"artifacts, scenarios and evaluation",Resultados,3,1218
+concluding remarks and future work,Conclusão,4,1215
+the hybrid method,Metodologia,3,1213
+a decision-support tool for the self-assessment process,Outras,3,1213
+code smells,Outras,3,1212
+model and approach,Metodologia,3,1210
+modelo spn absorvente,Metodologia,3,1209
+smart homes and data privacy,Outras,3,1209
+voting windows change-point detection (vwcd),Outras,3,1208
+estratégia de monitoramento,Outras,3,1207
+uncertainty triplet network mapping,Outras,3,1207
+aspectos sociais em vanets,Outras,3,1205
+c                                                                                                 egress,Outras,3,1205
+proposta de arquitetura e modelo de avaliação,Resultados,3,1204
+estratégia de ponderação proposta,Metodologia,3,1200
+topic-based access profile -tbap,Outras,3,1198
+scala          250.390   nix             94.337   scala              33.596,Outras,3,1197
+cenário de aplicação,Outras,3,1196
+estado da arte em aprendizado federado,Trabalhos relacionados,3,1196
+observabilidade em sistemas 5g,Metodologia,3,1194
+proposta de ambiente de análise de dados geoespaciais usando dlh,Resultados,3,1193
+"quais experimentos foram feitos para analisar este relacionamento, e quais",Resultados,3,1192
+curriculum learning (cl),Outras,3,1191
+formulação da problemática,Outras,3,1190
+desafios no domı́nio de fatiamento de rede da ran,Outras,3,1187
+cdc diabetes                                                               253680        19            3,Outras,3,1187
+analysis of the rainfall forecasting,Resultados,3,1186
+voltam para casa ao fim do turno vespertino,Outras,3,1185
+sistema respire bem,Metodologia,3,1183
+o futuro do trabalho,Outras,3,1183
+computação serverless,Outras,3,1183
+helix-siot: cenários de uso,Outras,3,1182
+configuração experimental das abordagens exploradas,Metodologia,3,1181
+análise de dados do backbone da rnp,Resultados,3,1180
+ajuste por pivô em sensoriamento compressivo com modelos generativos,Metodologia,3,1179
+definição de grafos e invariantes,Outras,3,1178
+análise de desempenho e resultados,Resultados,3,1177
+algoritmo de agrupamento nebuloso de máxima verossimilhança tipo-2 intervalar,Metodologia,3,1176
+tabela 5. macro-f1 dos experimentos,Resultados,3,1176
+aplicação da abordagem no domínio de dados governamentais,Metodologia,3,1175
+análise das licitações no ranqueamento,Resultados,3,1175
+considerações gerais,Outras,3,1174
+results and application,Resultados,3,1174
+experimental process,Resultados,3,1172
+optimizing for interventions,Outras,3,1172
+arquitetura e funcionamento do cf-ran,Metodologia,3,1171
+experimentos com o wi-fi direct,Resultados,3,1170
+proposed modeling approach,Metodologia,3,1170
+usando impressões digitais para identificar pessoas,Outras,3,1169
+proposed gp approach for semi-supervised learning,Metodologia,3,1167
+treplica-redis,Outras,3,1166
+framework for stance classification and interpretability,Metodologia,3,1165
+proposal: ssl-vfc4.5 algorithm,Metodologia,3,1164
+orphaned subsections,Outras,3,1163
+ia para sustentabilidade -mitigação de impactos climáticos,Outras,3,1163
+previsão de resiliência baseada em grafos dinâmicos,Trabalhos relacionados,3,1162
+descrição do sistema dcmonitor,Metodologia,3,1162
+test environment description,Outras,3,1162
+socrates,Outras,3,1161
+d     p,Outras,3,1161
+detalhamento do processo de descaracterização e andamento da pesquisa,Outras,3,1160
+"the sentences have some similarity, and may refer to the same fact;",Outras,3,1159
+extração de atributos,Outras,3,1159
+method and experimental evaluation,Metodologia,3,1158
+b             packets      periodic                 6.95,Outras,3,1157
+realocação de circuito,Outras,3,1156
+aderência da tecnologia blockchain aos requisitos funcionais,Outras,3,1153
+electric vehicles     —                                            correct,Outras,3,1153
+reconhecimento de gêneros musicais,Outras,3,1153
+fft-based high-pass filter anomaly detection method,Metodologia,3,1152
+o estimador mobetx,Outras,3,1151
+métricas,Outras,3,1150
+llm                 answer,Outras,3,1150
+planejamento de trajetos de drones auxiliados por trajetórias de ônibus,Outras,3,1149
+validation of the algorithm,Resultados,3,1147
+pesquisas relacionadas,Trabalhos relacionados,3,1146
+background e trabalhos relacionados,Trabalhos relacionados,3,1145
+análises e discussões,Resultados,3,1144
+experimentos com proveniência para pinns,Resultados,3,1144
+métodos para tratamento de outliers,Metodologia,3,1142
+computational experiment,Resultados,3,1142
+estimando o impacto da ia com ferramentas acessíveis,Outras,3,1141
+o agente conversacional unichat,Outras,3,1141
+mapeamento e seleção das obras,Outras,3,1141
+background and definitions,Trabalhos relacionados,3,1140
+"using voice control, turn the lamps on and off, prompting via wi-fi. content addressed: esp32 + wi-fi +",Outras,3,1136
+descrição do algoritmo,Metodologia,3,1135
+modelagem de sistemas sócio-agroambientais,Metodologia,3,1134
+janela atual ← (inteiro) t imestamp ÷ t amanho janela t emporal;,Outras,3,1134
+limitações,Outras,4,1133
+estudo de caso: construindo um grafo de conhecimento com parâmetros ambientais da cidade de lisboa,Resultados,3,1133
+modelagem da simulação,Outras,3,1133
+caracterização das falhas,Outras,3,1129
+a tool for exploring semantic view resources using various contexts,Outras,3,1128
+a abordagem arani,Metodologia,3,1128
+o problema da alocação de banda em uma nuvem,Outras,3,1127
+evaluation of the healthbot,Resultados,3,1126
+the obtained results,Resultados,3,1126
+scene dynamics: it regards information about the number of shots in the video,Outras,3,1125
+projeto de lei 2338/2023,Outras,3,1124
+considerações finais e conclusões,Conclusão,3,1124
+descrição da solução,Metodologia,3,1124
+visage,Outras,3,1123
+deep q-network,Outras,3,1123
+avaliação experimental da arani,Resultados,3,1123
+asma,Outras,3,1123
+framework experimental,Resultados,3,1121
+ai-enhanced advisor,Outras,3,1118
+server-side aggregation methods,Metodologia,3,1117
+análise de meta-dados,Resultados,3,1116
+overview about lorawan,Outras,3,1115
+sequence modeling architectures,Metodologia,3,1115
+id dataset              modality      instances    epochs       batch size     learning rate,Metodologia,3,1113
+o aprendizado do esperanto,Outras,3,1112
+"multi-sfc: sfcs sobre múltiplos domı́nios, nuvens e orquestradores",Outras,3,1110
+convex weight combination,Outras,3,1110
+guard band by multi layer perceptron -guardian,Outras,3,1109
+fedpeac-net e a seleção de atributos por minimização do erro de reconstrução,Outras,3,1109
+parametrização das técnicas,Outras,3,1108
+desafios para controle de congestionamento em redes de nova geração,Outras,3,1108
+princı́pios básicos da lei geral de proteção de dados,Outras,3,1108
+treinamento da rede oris e avaliação dos resultados,Resultados,3,1106
+"busca360: components, development, and deployment",Metodologia,3,1106
+fim para,Outras,3,1105
+experiment setup,Metodologia,3,1100
+relação entre vazão e consumo de energia,Outras,3,1100
+real use cases,Resultados,3,1099
+m os,Outras,3,1098
+dados escuros no controle público,Outras,3,1097
+implicações práticas à sociedade,Outras,3,1097
+augmented reality in learning situations in k-12 education: a literature review              2021   11,Trabalhos relacionados,3,1096
+modelagem e limitações do sistema,Metodologia,3,1096
+criação da base de dados,Metodologia,3,1094
+fluxo para criação e análise de datasets utilizando o mentored testbed,Metodologia,3,1094
+técnicas de pré-processamento,Outras,3,1092
+alocação de recursos de rádio em redes 5g,Outras,3,1089
+the figure 2 shows a typical production day from bof 1. the first graph (time series),Outras,3,1088
+"the article addresses the recognition of human activities, regardless of whether the term ""human activity",Outras,3,1088
+b ← ∅;,Outras,3,1087
+proposed approach: denethor,Metodologia,3,1083
+iot pd-rpm: avaliação,Resultados,3,1083
+resposta,Outras,3,1083
+aprendizado de máquina e modelagem de crédito,Outras,3,1082
+possible answers,Outras,3,1080
+network analysis,Resultados,3,1079
+experiments and data description,Resultados,3,1079
+manipulação e extração de conhecimento de datasets,Metodologia,3,1078
+análise amortizada,Resultados,3,1077
+ignore empty utterance units: this is done at the end because the normalization,Outras,3,1077
+arquitetura cf-ran,Metodologia,3,1077
+arquitetura da aplicação e experimento,Resultados,3,1077
+antimicrobial resistance (amr): mic (minimum inhibitory concentration),Outras,3,1075
+conclusion and discussion,Conclusão,3,1074
+textual representation,Outras,3,1074
+framework proposal,Metodologia,3,1074
+denial constraint approach,Metodologia,3,1073
+sequential tabu search,Outras,3,1072
+shodan,Outras,3,1072
+"cada ficha no lugar de fusão proc (f usion1) representa um processador, cada um",Outras,3,1072
+uct-gubs,Outras,3,1072
+introdução à inteligência artificial industrial,Introdução,3,1071
+redes neurais convolucionais,Outras,3,1070
+evaluation of autollm with qlora,Resultados,3,1069
+arquitetura e funcionamento do sistema pandora,Metodologia,3,1069
+base de dados e ferramentas utilizadas,Metodologia,3,1067
+redes neurais artificiais,Outras,3,1066
+redes neurais multi layer perceptron,Outras,3,1065
+is there anything you would suggest or improve on the platform?,Outras,3,1064
+desenvolvimento do trabalho,Metodologia,3,1064
+survey results,Resultados,3,1064
+discussão do problema de pesquisa,Resultados,3,1063
+sumarização e análise preliminar do dataset,Trabalhos relacionados,3,1063
+reinforcement learning algorithms,Metodologia,3,1062
+experimento e resultado,Resultados,3,1062
+dificuldade no resgate de investimento        31,Outras,3,1061
+experiment methodology & requirements,Metodologia,3,1060
+data description and tts models selected,Outras,3,1058
+protocolo experimental,Resultados,3,1056
+generative adversarial networks,Outras,3,1041
+"basic-block-pair                                                        256           14, 14       2,785,354",Outras,2,1024
+mooring line failure detection,Outras,2,1024
+id.     fala                                                                            leva a,Outras,2,1024
+s&p       simrank & pmi,Outras,2,1024
+reqroute: protocolo de roteamento por reforço para redes quânticas,Outras,2,1024
+seleção de características baseada em clusters,Outras,2,1024
+iccell: arquitetura e funcionalidades,Metodologia,2,1024
+"realiza-se uma etapa de balanceamento, em que as partições são agrupadas em",Outras,2,1024
+consequences of the full-exploitation approach,Metodologia,2,1024
+o protocolo dctcp e o mecanismo ecn,Outras,2,1024
+o aprendizado federado,Outras,2,1024
+fedsnip,Outras,2,1024
+order by registration_count desc limit 1;,Outras,2,1024
+paradoxo da privacidade,Outras,2,1024
+definição do problema e estudo proposto,Metodologia,2,1024
+formalização,Outras,2,1024
+performance analysis and comparative study,Resultados,2,1024
+trabalho proposto,Metodologia,2,1024
+ambiente de testes,Outras,2,1024
+lattes case study,Resultados,2,1024
+the application of spatial approximations to spatial query processing,Outras,2,1024
+fundamentos da ndn,Trabalhos relacionados,2,1024
+fundamentos de lógica fuzzy,Trabalhos relacionados,2,1024
+evaluation setup,Metodologia,2,1024
+processo de desenvolvimento de produtos inteligentes na méliuz,Metodologia,2,1024
+general analysis and results,Resultados,2,1024
+evaluation and discussions,Resultados,2,1024
+domínio do problema e trabalhos relacionados,Trabalhos relacionados,2,1024
+propostas de modificações,Metodologia,2,1024
+heterogeneous multi-agent graph q-network,Outras,2,1024
+slorion,Outras,2,1024
+arquitetura cnn para análise de sentimentos,Resultados,2,1024
+energy profiling framework,Metodologia,2,1024
+análise de rotina,Resultados,2,1022
+proposed model,Metodologia,2,1021
+capitalismo de vigilância,Outras,2,1021
+consultas contínuas por abrangência em dados métricos,Outras,2,1020
+desafios para criação e gestão de repositórios de dados,Outras,2,1019
+geração de explicações contrastivas,Outras,2,1018
+conceitos básicos da social iot,Trabalhos relacionados,2,1016
+internet das coisas social (siot),Outras,2,1015
+magnet,Outras,2,1015
+hospedagem alternativa e airbnb,Outras,2,1014
+dual semantic chunker,Outras,2,1012
+our methodology,Metodologia,2,1012
+covidkeys -a keyword search application over covid-19 data,Outras,2,1011
+framework,Metodologia,2,1011
+sistemas multiagentes e o problema da responsabilidade e imputabiidade da ação moral,Metodologia,2,1010
+"os modelos bert, mbert e bertimbau",Metodologia,2,1007
+aplicação do sim,Outras,2,1007
+análise comparativa,Resultados,2,1007
+capturing i-prov in the curio framework,Metodologia,2,1006
+experiment design,Resultados,2,1005
+coclustering interpretation and visualization strategy,Outras,2,1005
+validação da arquitetura proposta,Resultados,2,1004
+shared-scans in key-value stores,Outras,2,1003
+motivation,Outras,3,1002
+experiments architecture,Resultados,2,1002
+fos to longitudinal data,Outras,2,1002
+detecção de comunidades,Outras,2,999
+arquitetura mfa-rnn,Metodologia,2,998
+data used to pre-train language models,Outras,2,998
+identificação do problema e definição dos objetivos,Outras,2,997
+potenciais implicações,Outras,2,997
+league of legends    league weirdcmp normies weird lo,Outras,2,996
+cbir,Outras,2,994
+"m icumax = {⟨i1 , wr(u,1) ⟩, ..., ⟨im , wr(u,m) ⟩|1 ≤ m ≤ |m icu |} .                  (4)",Outras,2,993
+a topologia hierárquica vcube,Outras,2,990
+serviço de gerenciamento de duplicação (sgd),Outras,2,990
+a collaborative nids,Outras,2,990
+avaliação dos resultados obtidos,Resultados,2,989
+"entendendo o projeto, seus benefı́cios e sua abrangência",Outras,2,989
+data collection,Outras,2,987
+proof-of-concept experimental evaluation,Resultados,2,986
+composição de regras,Outras,2,985
+desafios da inteligência artificial industrial,Outras,2,985
+exemplo: módulo em solução descentralizada de compartilhamento de infraestrutura de redes baseada em blockchain,Metodologia,2,985
+figura 3. matriz de confusão da validação do modelo com aumento de dados,Resultados,2,984
+"mix     pt       52,05% 43,19%       47,21%",Outras,2,984
+o ciclo de vida do gerenciamento de um acordo de níveis de serviço e o modelo de atacante,Metodologia,2,984
+o aprendizado por reforço,Outras,2,983
+brimo,Outras,2,983
+representação do conhecimento baseado na hierarquia dikw,Outras,2,982
+ferramentas de análise de sites https,Resultados,2,982
+termos de uso e polı́ticas de privacidade,Outras,2,979
+smart place,Outras,2,979
+threats to validity,Outras,4,979
+x                    n,Outras,2,979
+qual o tamanho da equipe de desenvolvimento?                            -,Metodologia,2,976
+problema de roteamento e alocação de espectro,Outras,2,976
+bichobot,Outras,2,976
+fundamentals and related works,Trabalhos relacionados,2,973
+metodologia para identificação de websites de desinformação,Metodologia,2,973
+results and discuss,Resultados,2,972
+bancos de dados distribuı́dos e operação hash join,Outras,2,972
+data programming,Outras,2,971
+o sistema automhs-gpt,Metodologia,2,970
+m p,Outras,2,969
+arquitetura topológica da via aérea,Metodologia,2,969
+treinamento do modelo ddqn,Metodologia,2,968
+data augmentation methods,Metodologia,2,966
+game scenario,Outras,2,965
+text-to-sql translation with deepseek and heuristic corrections: a continuous learning approach,Metodologia,2,965
+aplicação,Outras,2,965
+missing values imputation in data streams,Outras,2,964
+ataques à segurança das infraestruturas sdn,Outras,2,961
+x                                  x,Outras,2,960
+pipeline proposto,Metodologia,2,960
+resultados esperados,Resultados,2,960
+id  questions                                          answers,Outras,2,960
+programabilidade de redes e linguagem p4,Outras,2,960
+data and materials,Outras,2,958
+extração de features,Outras,2,956
+arquitetura da simulação e seus componentes,Metodologia,2,956
+estrutura do sistema icm,Metodologia,2,956
+aplicação da metodologia proposta no twitter,Metodologia,2,956
+emissão e verificação de identidades,Outras,2,955
+numerical example,Outras,2,954
+gbps         120 mbps       até 600,Outras,2,953
+fundamentos da classificação de tráfego de rede,Trabalhos relacionados,2,952
+our approach,Metodologia,2,951
+discussão e implicações,Resultados,2,950
+o algoritmo proposto,Metodologia,2,950
+resultado obtido: back to the promotion-evacsim,Resultados,2,949
+agent workflow and component design,Outras,2,949
+métodos de solução,Metodologia,2,949
+sistema de seleção de modelo baseado em busca e poda,Metodologia,2,947
+a arquitetura cf-ran e a divisão de funções,Metodologia,2,946
+results and use case,Resultados,2,946
+modelo de tráfego não uniforme,Metodologia,2,946
+o que é um hackathon?,Outras,2,944
+hd pump,Outras,2,944
+comparação dos resultados obtidos pelo algoritmo de melhor desempenho com o critério estabelecido no projeto original,Resultados,2,943
+contextual bert,Outras,2,942
+c         d,Outras,2,942
+proposta de solução,Metodologia,2,942
+"vm a to improve its performance from 100 (in the rm host) to 125 iops (in the fm host),",Resultados,2,941
+o ensino de engenharia de dados e a ind ústria,Outras,2,941
+data analysis,Resultados,2,937
+goals with utility-based semantics (gubs),Outras,2,935
+methodology and proposed strategies,Metodologia,2,934
+meta-heurı́stica utilizada,Outras,2,934
+discussion and model comparison,Resultados,2,933
+the danke keyword search component,Outras,2,932
+a study on the selection of surrogate models for the problem of compressing two,Outras,2,932
+data preparation,Outras,2,932
+topic analysis is carried out by a prompt that instructs the llm to check whether,Resultados,2,932
+methodology and conduction,Metodologia,2,931
+difusão de melhor esforço sobre o vcube,Outras,2,930
+brief review of related work,Trabalhos relacionados,2,930
+resultados e avaliação experimental,Resultados,2,929
+ontology,Outras,2,927
+principais componentes da zero trust architecture,Metodologia,2,926
+improving native ndn,Outras,2,925
+módulo de agrupamento (clustering),Outras,2,925
+benign (5)            63%         0.026     8,Outras,2,924
+human-computer interaction (hci) and ai applications,Outras,2,923
+avaliação usando algoritmos de aprendizado de máquina,Resultados,2,922
+fwd packet length max              53       avg bwd segment size,Outras,2,921
+discussion of results,Resultados,2,918
+teoria da carga cognitiva no desenvolvimento de software,Metodologia,2,918
+sendservicesandauthenticationmechanisms(),Outras,2,917
+monitorando opinião p ública,Outras,2,916
+análises e discussões das publicações,Resultados,2,916
+"os pontos saltitantes na tela são os mais usados como estímulo visual,",Outras,2,916
+polı́ticas de vacinação sensı́veis a risco: algoritmos eficientes,Metodologia,2,916
+solução multi-cluster para o mentored testbed,Metodologia,2,915
+"check if the mode obtained belongs to the detected outliers, if it belongs back to",Outras,2,914
+uma introdução aos dados de proveniência,Introdução,2,914
+avaliação da provincia,Resultados,2,913
+theoretical backgroung,Trabalhos relacionados,2,913
+vne competitor approaches,Metodologia,2,912
+centerclare algorithm,Metodologia,2,910
+conjuntos de dados,Outras,2,910
+formulação do dfed-w opt,Outras,2,910
+mbit/s        5 db         54%,Outras,2,908
+farias et al,Outras,2,908
+proposed dataset,Metodologia,2,907
+comparative analysis,Resultados,3,907
+final considerations and future works,Conclusão,2,906
+treinamento das redes neurais -obtenção dos modelos,Metodologia,2,906
+conclusões e direções futuras,Conclusão,3,905
+visão geral do problema,Outras,2,904
+tkgevolviewer,Outras,2,903
+instruction-based genetic programming,Outras,2,903
+l                                           l,Outras,2,901
+análise do impacto de dados faltantes na métrica p%-rule,Resultados,2,897
+a method for predicting rainfall using statistical learning,Metodologia,2,897
+middleware exehda,Outras,2,895
+dataset characterization,Metodologia,2,894
+aprendizado de máquina,Outras,2,894
+repartição treino/teste do conjunto de dados,Metodologia,2,892
+contexto e trabalhos relacionados,Trabalhos relacionados,2,892
+the coepinkb framework,Metodologia,2,892
+metodologia experimental e validação do modelo base,Metodologia,2,892
+"llm multi-bert                 ×              82,0              85,8             82,0    0,839",Outras,2,890
+results & discussion,Resultados,2,888
+estudos sobre plataformas de jogos digitais,Outras,2,888
+who does watch you? # 1,Outras,2,887
+v p + fn + fp + v n         v p + fn + fp + v n,Outras,2,887
+intersection of objects in csis,Outras,2,886
+proof-of-concept,Outras,3,885
+avaliação da arquitetura stdf,Resultados,2,885
+b,Outras,2,885
+computação e m úsica,Outras,2,883
+regras de associação,Outras,2,883
+resiliência econômica e grafos dinâmicos,Outras,2,882
+background: conversational agents,Trabalhos relacionados,2,881
+"método, recursos, fontes de dados e conceitos",Trabalhos relacionados,2,881
+the framework,Metodologia,2,879
+non-associative algebras,Outras,2,879
+inteligência artificial explicável,Outras,2,878
+experiments and analysis,Resultados,2,877
+experimentos com o ataque evil twin,Resultados,2,876
+obstáculos da inclusão digital no proeidi,Outras,2,876
+discussion: towards a critical theory of is,Resultados,2,875
+sum-product networks,Outras,2,873
+o pnld e sua contribuição para a educação p ública brasileira,Outras,2,872
+limitações e ameaças a validade,Outras,2,871
+redução de tráfego l2 em redes ad hoc sem fio através da ndn,Outras,2,871
+interactive narratives,Outras,2,871
+contributions and applicability,Outras,2,870
+mineração de argumentos em redes sociais: a estratégia do projeto heiwa,Outras,2,870
+visão geral do projeto,Outras,2,869
+motores de busca de dispositivos,Outras,2,868
+modelagem e desenvolvimento da solução,Metodologia,2,868
+theoretical basis,Trabalhos relacionados,2,868
+local explanation methods,Metodologia,2,867
+visão geral e modelagem do problema de escalonamento de switches,Outras,2,866
+foundations,Outras,2,864
+ameaças à validação,Resultados,3,863
+highrt and highav and highth      highweight,Outras,2,862
+pipeline architecture,Metodologia,2,862
+"dvd       accessory, audio, dimension, price, sound, video",Outras,2,862
+processo de segmentação,Outras,2,862
+detecção e tratamento de anomalias,Outras,2,861
+any other movement yields a reward of −1,Outras,2,858
+spending pattern generation method,Metodologia,2,858
+grafocal: the proposed method,Metodologia,2,855
+coordination within a conversational agent,Outras,2,853
+"add(ctx context.context, x, y int) (int, error)",Outras,2,853
+partition modelling framework,Metodologia,2,852
+infraestrutura de hardware para coleta de particulados,Outras,2,852
+predição do risco de mortalidade em utis: avaliação da abordagem,Resultados,2,851
+abordagem proposta: maestro,Metodologia,2,850
+problem characterization,Outras,2,850
+algoritmo minion,Metodologia,2,850
+metodologia e desenvolvimento,Metodologia,2,848
+comunicação óptica sem fio,Outras,2,848
+ondbtuning inferencing,Outras,2,846
+proposed framework and methodology,Metodologia,2,844
+localidade dos dados no hdfs,Outras,2,844
+3d human motion,Outras,2,842
+uma visão geral da arquitetura nfv-mano,Metodologia,2,841
+algoritmo do território causal,Metodologia,2,837
+paradigmas de redes de computadores,Outras,2,836
+experimento e exploração de cubo de dados,Resultados,2,835
+ambiente de simulações,Outras,2,833
+general remarks and conclusion,Conclusão,2,833
+perfuração de poços de petróleo,Outras,2,832
+contextualização e fundamentos,Trabalhos relacionados,2,831
+a heurı́stica okinawa,Outras,2,830
+preliminary results of an sna task,Trabalhos relacionados,2,830
+implementação do ambiente a partir de um estudo de caso,Resultados,2,829
+estratégia de pós-processamento,Outras,2,829
+fairgnn-bagging,Outras,2,828
+limitations and future work,Conclusão,3,826
+desenvolvimento do sistema,Metodologia,2,826
+the responses of the models are used to calculate the item parameters for each,Outras,2,825
+post-synthesis results,Resultados,2,825
+dynamic architecture for data replica balancing,Metodologia,2,825
+grafo temporal de coautoria científica,Outras,2,824
+requisitos funcionais da interface sas-sas,Outras,2,824
+proposed hybrid approach,Metodologia,2,824
+this division is not previously decided but occurs according to the real situations the,Outras,2,823
+what are the reported limitations and challenges?,Outras,2,823
+discussion towards system requirements,Resultados,2,822
+segurança da informação em dispositivos móveis,Outras,2,821
+limitações e ameaças à validade,Outras,3,820
+our solution,Metodologia,2,819
+sistema de detecção de intrusão baseado em floresta de decisão distribuída,Metodologia,2,819
+exemplo de uso da plataforma,Outras,2,818
+approaches to generate history-base cost-function to find probable alignments,Metodologia,2,817
+aplicação do aprendizado de máquina,Outras,2,815
+análise das necessidades da ind ústria brasileira,Resultados,2,814
+contextual knowledge graphs,Outras,2,813
+auc-roc: area under the roc curve that evaluates the relationship between,Resultados,2,812
+tatu approach,Metodologia,2,812
+modelagem da rede bipartida,Outras,2,811
+discussão e oportunidades,Resultados,2,811
+analysis and insights,Resultados,2,810
+gated recurrent unit (gru),Outras,2,810
+using drift detection to improve ml system's performance,Resultados,2,809
+instanciação do db-smigra em uma migração real,Outras,2,809
+maturidade do brasnam,Outras,2,809
+computação confiável com enclaves,Outras,2,808
+label error detection,Outras,2,807
+deepfakes,Outras,2,807
+elasticsearch,Outras,2,806
+weighted average by feature importance,Outras,2,806
+trabalhos relacionados e contribuições,Trabalhos relacionados,2,805
+padrões de resiliência,Outras,2,805
+panorama tecnológico,Outras,2,805
+i                                       estatísticas int,Outras,2,804
+lei de responsabilidade fiscal: http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm,Outras,2,804
+"limitação, discussão e considerações finais",Conclusão,2,804
+models,Outras,2,803
+o algoritmo truminer,Metodologia,2,800
+the experimental environment and results are in section 4. section 5 presents owner,Resultados,2,799
+statment of the problem on predicting seasonal rainfall for specific points in a railroad,Outras,2,798
+segmento da inteligência artificial,Outras,2,797
+parallel differentiated evolution to vne problems,Outras,2,796
+vector-valued neural networks,Outras,2,794
+experimento e coleta de dados,Resultados,2,793
+prediction and model interpretation: checking if the model generalizes well to,Metodologia,2,791
+twix: the hybrid approach,Metodologia,2,790
+the history-based approach applied in automated planning to find,Metodologia,2,790
+métodos utilizados,Metodologia,2,789
+detalhamento das técnicas utilizadas,Outras,2,789
+sada -sygar-based author data augmentation,Outras,2,789
+frequency-based features: derived from fast fourier transform (fft) analysis,Resultados,2,788
+methodology and artifacts used,Metodologia,2,788
+fitness function and its behaviour,Outras,2,787
+fundamentos técnicos e teóricos,Trabalhos relacionados,2,787
+qualidade da anotação,Outras,2,787
+conceitos e caracterização do problema,Trabalhos relacionados,2,786
+métricas para avaliação dos modelos,Resultados,2,786
+json and json schema,Outras,2,785
+qualidade de dados de transporte público,Outras,2,784
+lgpd main concepts and brazilian context,Outras,2,784
+"migratedatabasestep: compila os códigos java, bem como converte e persiste",Outras,2,784
+general architecture of misla 2,Metodologia,2,784
+proposed system architecture,Metodologia,2,783
+multi-leader paxos with iss,Outras,2,783
+developed work,Outras,2,782
+finding the modes of gaussian sum-product networks,Outras,2,782
+coleta do tempo de execução,Outras,2,781
+threat model,Metodologia,2,780
+cenário e modelo de atacante,Metodologia,2,780
+internet dos drones: uma visão geral,Outras,2,780
+stde: self-tuning drift ensemble,Outras,2,779
+gwo -grey wolf optimizer,Outras,2,778
+the implemented transport network testbed,Outras,2,777
+ml model selection,Metodologia,2,777
+o valor de qualquer polı́tica π que não é própria é v π (s) = ∞,Outras,2,776
+modelo stdf multi-codec proposto,Metodologia,2,775
+"andréia seixas leal, lilian berton, and luis carlos de castro santos",Outras,2,775
+"adds (x, y) on buffer to train the classifier",Outras,2,774
+slice and monitor agents,Outras,2,770
+aplicativos móveis e a proteção de dados psicólogicos,Outras,2,770
+exploration with action noise,Outras,2,769
+limitations of the preliminary ranking strategy,Trabalhos relacionados,2,765
+o estudo apresenta uma metodologia clara e detalhada?,Metodologia,2,765
+medidas de avaliação,Resultados,2,765
+confusion matrix,Outras,2,764
+"x       responsabilização e prestação de contas: demonstração, pelo agente, da adoção de",Outras,2,764
+constrained partially observable markov decision process,Outras,2,763
+construção e avaliação do classificador,Resultados,2,763
+mm2,Outras,2,762
+kv-raptor,Outras,2,761
+introdução e revisão bibliográfica,Introdução,2,761
+research methods,Metodologia,2,760
+datasets used in the experiments,Metodologia,2,759
+verificação de integridade com tpm,Outras,2,759
+elementos básicos,Outras,2,758
+modelo de aplicação da aether,Metodologia,2,757
+"in this step, the rfc with 100 estimators has been used for evaluation, according to",Resultados,2,757
+dispositivos e plataformas,Outras,2,756
+id     answer,Outras,2,756
+justificativa,Outras,2,752
+preliminaries and related work,Trabalhos relacionados,2,752
+definição formal do problema,Outras,2,752
+encoding the alignment task as a planning problem,Outras,2,751
+evaluation methods,Metodologia,2,751
+técnica proposta,Metodologia,2,751
+tabela 1. comparação com trabalhos relacionados,Trabalhos relacionados,2,751
+tabela 3. resultados do segundo experimento,Resultados,2,749
+tics no apoio à compreensão de termos,Outras,2,749
+i            conjunto de inquilinos,Outras,2,745
+lichtenberg algorithm (la),Metodologia,2,745
+nsga-iii with update when required,Outras,2,743
+"the ""operation car wash"" collusive dataset",Metodologia,2,742
+análises preliminares,Trabalhos relacionados,2,742
+recomendações para os times pequenos,Outras,2,741
+unit: a version of the same                        network   presented    in   the    article,Outras,2,741
+fuzzynetclass: proposta de arquitetura,Metodologia,2,739
+roteiros experimentais e coleta de dados,Resultados,2,737
+jornalismo e inteligência artificial (ia),Outras,2,736
+modelos de linguagem de grande escala e engenharia de prompt,Metodologia,2,736
+the problem of prediction of compressive strength,Outras,2,735
+outras perspectivas de inclusão,Outras,2,733
+visão geral do maria,Outras,2,733
+abordagem proposta: akôflow,Metodologia,2,733
+v p + fp   v n + fn,Outras,2,732
+problema da dimensionalidade em sistemas de detecção de intrusão no aprendizado federado,Metodologia,2,730
+scenario a results,Resultados,2,730
+csi,Outras,2,730
+planning,Outras,2,729
+opencitations,Outras,2,729
+abordagem proposta: mgso,Metodologia,2,728
+brwac2wiki: multi-document summarization dataset,Metodologia,2,727
+the danke platform,Outras,2,727
+dataset and training,Metodologia,2,726
+modelo do sistema uplink mimo massivo,Metodologia,2,726
+tecnologias na coleta de resı́duos,Outras,2,726
+dataset creation,Metodologia,2,725
+intelligent information extraction from medication purchases,Outras,2,724
+experimental materials and methods,Metodologia,2,723
+processos de decisão markovianos (mdps),Outras,2,723
+proposta de mercado descentralizado,Metodologia,2,722
+invalid allocation detection,Outras,2,722
+escopo da abordagem desenvolvida,Metodologia,2,722
+experimental results on real datasets,Metodologia,2,720
+plan,Outras,2,719
+selection of optimal mask: the optimal mask is selected based on the highest,Outras,2,719
+adapted rtn architecture to short-term inbetweening,Metodologia,2,718
+service weaver,Outras,2,718
+modeling and problem description,Outras,2,716
+aer-mint,Outras,2,714
+architecture input output conclusion template,Conclusão,2,712
+branchynet,Outras,2,712
+experimental evaluation 6.1. addressing rq1: most similar trajectory search in a dense dataset,Metodologia,2,711
+descrição da tarefa ren,Outras,2,711
+definição formal do problema de ptd de redes ópticas,Outras,2,710
+arquitetura proposta com integração blockchain,Metodologia,2,710
+estudo de caso -conjuntos de dados,Resultados,2,708
+problemas de otimização multiobjetivo,Outras,2,708
+qids: sistema de detecção de ataques baseado em aprendizado de,Metodologia,2,708
+methodology and experimental evaluation,Metodologia,2,708
+cordelisticity (stylistic authenticity),Outras,2,707
+multi-leader and leaderless protocols,Outras,2,706
+tcp throughput predicition,Outras,2,705
+proposed method and experimental setup,Metodologia,2,705
+vis interativa e padrões de consultas espaço-temporais,Outras,2,703
+model for heterogeneous marl,Metodologia,2,703
+j&p          jaccard index & pmi          6    w&p          wlm & pmi,Outras,2,702
+roteamento interdomı́nio e validação de rotas,Resultados,2,701
+hate from spain to him                                       hs hs hs    hs neu off               hs    hs     hs     hs,Outras,2,701
+chyper,Outras,2,701
+m level    memory (mb)          p level      mips,Outras,2,701
+modelagem de massa dos particulados do ambiente,Outras,2,700
+experiment results and discussion,Resultados,2,700
+abordagem proposta: orbiter,Metodologia,2,699
+to calculate the contribution of the features for the target task,Outras,2,698
+brief review of npc gzip,Outras,2,698
+mecanismos de seleção de multicaminhos,Outras,2,696
+vvc standard and parallelism exploration,Outras,2,696
+danian,Outras,2,695
+exemplo do formato de saída esperado: informações importantes que devem,Outras,2,695
+figura 6. an álise dos resultados,Resultados,2,695
+controle de congestionamento baseado na supressão de nós,Outras,2,695
+recuperação,Outras,2,695
+estudo de caso de uma possı́vel licitação fraudulenta,Resultados,2,695
+vulnerabilidades do vtpm,Outras,2,695
+tem alguma funcionalidade que deveria ganhar destaque na tela?,Outras,2,695
+connected components analysis: found connected components to identify and,Resultados,2,695
+sistema de acesso ao espectro (sas),Metodologia,2,691
+id name,Outras,2,690
+heuristics evaluated,Resultados,2,690
+proposta de algoritmo de detecção de sinais baseado no método da secante,Metodologia,2,689
+research background,Trabalhos relacionados,2,689
+o caminho para o uso de algoritmos inteligentes,Metodologia,2,689
+machine learning methods and applications in climate,Metodologia,2,686
+atyimo: the brazillian pprl solution,Metodologia,2,685
+the social science research project,Outras,2,685
+comparison with the analysis of brazilian blogs,Resultados,2,685
+slicing networks in experimental testbeds for data-intensive science,Resultados,2,683
+estimação do antecedente,Outras,2,683
+resultados para f0.5,Resultados,2,683
+modelos de classificação,Metodologia,2,683
+proposta: o bpmn2aiml,Metodologia,2,682
+restrições de implementação na plataforma tofino,Metodologia,2,682
+sistema proposto: detecção antecipada de ataques utilizando matrix profile,Metodologia,2,682
+kpis propostos,Metodologia,2,681
+entrevistas,Outras,2,681
+sequências espaço-temporais,Outras,2,681
+overview of neural network architectures,Metodologia,2,679
+saxjs algorithm,Metodologia,2,679
+lunch: a floss system for course scheduling,Outras,2,679
+enem,Outras,2,678
+slice deployment and experimentation with the fabric testbed,Resultados,2,678
+os trabalhos relacionados,Trabalhos relacionados,2,676
+"domínio do problema, trabalhos relacionados e método",Trabalhos relacionados,2,676
+"d. on the pl-1 scenarios, where a logging procedure is triggered after each command,",Outras,2,675
+preliminary experimental,Trabalhos relacionados,2,674
+x                                       x             x,Outras,2,672
+cloudsim plus simulator,Outras,2,671
+apresentação da solução desenvolvida,Metodologia,2,671
+distributional reinforcement learning,Outras,2,670
+discussão final e conclusões,Conclusão,2,669
+availability model,Metodologia,2,669
+canais de pagamento,Outras,2,668
+pipeline da solução de bi,Metodologia,2,668
+algoritmo genético proposto,Metodologia,2,668
+methods for real-time data deduplication,Metodologia,2,666
+implementando a democratização de dados no e&p da petrobras,Metodologia,2,663
+comentários finais,Outras,2,662
+design patterns,Outras,2,661
+cenário da aplicação,Outras,2,661
+case study: analyzing high school student's performance in the enem,Resultados,2,661
+sistema de gerenciamento de tráfego veicular proposto,Metodologia,2,660
+dnns and speech emotion recognition,Outras,2,660
+resultados e avaliação da solução,Resultados,2,660
+linhagem de dados,Outras,2,660
+alfadapt design,Outras,2,660
+methodology for corpus construction,Metodologia,2,660
+problema de localização de instalações (facility location problem),Outras,2,659
+avaliação de usabilidade,Resultados,2,659
+divisão ótima de funções de processamento,Outras,2,659
+coleta e processamento dos textos,Outras,2,658
+abordagem proposta: foresee,Metodologia,2,657
+estudos de caso e resultados,Resultados,2,657
+the schema inference process,Outras,2,656
+scheduling(m),Outras,2,655
+evaluating machine learning techniques in blood pressure estimation: results and discussion,Resultados,2,653
+plain,Outras,2,653
+glamorise -a proposed solution,Metodologia,2,653
+abusive relationships,Outras,2,653
+dealing with two logic formalisms,Outras,2,651
+implementação do protótipo da proposta,Metodologia,2,651
+vetor de sufixos métrico compacto,Outras,2,650
+reinforcement learning approach,Metodologia,2,648
+relevância dos atributos,Outras,2,646
+desafios para a seleção ótima de características,Outras,2,646
+musicas brasileiras: uma abordagem inicial de reconhecimento,Metodologia,2,645
+heurística de preenchimento,Outras,2,643
+etapa 3 -inserção de incertezas no dataset,Metodologia,2,641
+similarity join on multi-attribute data,Outras,2,641
+numerator: the numerator features an exponential function influenced by,Outras,2,641
+o problema de agrupamento na câmara dos deputados,Outras,2,641
+x               v,Outras,2,641
+basic concepts on tessarines and quaternions,Outras,2,641
+transfer learning and fine tunning hyperparameters,Outras,2,637
+classifier methods,Metodologia,2,637
+due to the recommended depth for conducting a contemporary and updated qualitative research,Outras,2,637
+solução,Metodologia,2,636
+introdution,Introdução,2,635
+m +« an empty map from record to a similarity score,Outras,2,633
+integração de dados factuais e subjetivos: um estudo de caso,Resultados,2,633
+performance tests on toy datasets,Metodologia,2,633
+cd cepreduzido       first 5 digits of the zip code of residence       string,Outras,2,632
+filtros de bloom,Outras,2,631
+modelando rumores no twitter como uma rede textual temporal,Outras,2,631
+"accuracy testing: a smaller fraction of the dataset, specifically 100 records, was",Metodologia,2,630
+metodologia: fluxo de otimização proposto,Metodologia,2,630
+literature overview,Outras,2,627
+desafios técnicos na análise de dados p úblicos,Resultados,2,626
+composition of heterogeneous node embeddings,Outras,2,626
+ataques fgsm e jsma,Outras,2,626
+ontologies specifications,Outras,2,626
+o problema da criticalidade dos enlaces na disponibilidade de recursos em redes ópticas elásticas,Outras,2,626
+m +< an empty map from set to a similarity score,Outras,2,625
+protótipo proposto,Metodologia,2,624
+apache spark,Outras,2,624
+"c. lastly, the safa protocol adopts a selection mechanism similar to that of fedcs and",Outras,2,624
+m                          mecanismo de privacidade diferencial analisado,Resultados,2,624
+rmsa para maximização de tráfego atendido,Outras,2,624
+hypergraphs,Outras,2,623
+modelo bbgp,Metodologia,2,623
+container-aware provenance with provdeploy,Outras,2,622
+x,Outras,2,621
+proposed strategy,Metodologia,2,620
+materials,Outras,2,620
+definições e trabalhos relacionados,Trabalhos relacionados,2,620
+fpso offset prediction,Outras,2,620
+conclusões finais,Conclusão,2,620
+definição do problema investigado,Metodologia,2,619
+physical layer impairments,Outras,2,619
+lg,Outras,2,618
+future works,Conclusão,2,616
+an analysis of the obtained results,Resultados,2,616
+at the end of all batches: compute the performance metrics,Resultados,2,614
+"c i, j",Outras,2,612
+dataset and models generation,Metodologia,2,611
+construção do conjunto de dados,Metodologia,2,611
+sax and dwsax,Outras,2,610
+the trust computing approach,Metodologia,2,610
+theoretical references,Trabalhos relacionados,2,609
+dataset construction,Metodologia,2,607
+mc dropout. the focus is on understanding how adjusting the dropout rate can modulate,Outras,2,606
+id       n   ti         msr        ts ( % )   tnf ( % ),Outras,2,606
+firefly algorithm,Metodologia,2,606
+case study: stances on twitter about covid-19 vaccination,Resultados,2,606
+digital social networks definition,Outras,2,606
+system model and assumptions,Metodologia,2,605
+sincronização,Outras,2,605
+see    https://radimrehurek.com/gensim_3.8.3/models/doc2vec.html             -,Outras,2,604
+preliminaries and problem definition,Trabalhos relacionados,2,603
+resultados e visualizações produzidas,Resultados,2,603
+a plataforma di@ deve permitir a exportação das informações contidas nas,Outras,2,602
+comparando funcionalidades geopandas e apache spark + sedona,Outras,2,602
+vr-gx heuristic algorithm,Metodologia,2,601
+sobre a méliuz,Outras,2,601
+methods and strategies,Metodologia,2,600
+theorical background,Trabalhos relacionados,2,599
+educ-dapp,Outras,2,598
+rpc. representa a chamada de procedimento remoto orientada a evento (api),Outras,2,598
+metodologia e implementação do sistema,Metodologia,2,598
+output the structured result with the conclusion and monetary value,Conclusão,2,597
+comparison to related work,Trabalhos relacionados,2,597
+m     c,Outras,2,596
+junções por similaridade em clusters heterôgeneos,Outras,2,595
+anotação de dados para mineração de argumentos em redes sociais,Outras,2,594
+i            i,Outras,2,594
+related work: unsupervised learning,Trabalhos relacionados,2,594
+risk index for steel in the oil and gas sector,Outras,2,593
+fuzzynetclass: avaliação,Resultados,2,592
+invert the sequence in set of paths,Outras,2,591
+revenue analysis,Resultados,2,591
+problem description and methodology,Metodologia,2,590
+overview,Outras,2,587
+discussões sociológicas,Resultados,2,587
+revisão teórica,Outras,2,587
+id                 descrição                 id                         nome,Outras,2,586
+goal-oriented chat-like system for llm evaluation,Resultados,2,586
+discrediting the press: these attempt to discredit news outlets with dubious,Outras,2,586
+o sideas,Outras,2,586
+finding relevant relationship paths between entity pairs,Outras,2,585
+discussion and limitations,Resultados,2,583
+necessidade de organização da área de pesquisa de análise de redes,Resultados,2,583
+proposta de configuração conjunta de parâmetros lora,Metodologia,2,583
+direito cível,Outras,2,582
+os conjuntos de dados erb2018 e erb2022,Outras,2,582
+simulações,Outras,2,581
+metodologia para análise da qualidade de dados com a ge,Metodologia,2,581
+discussion and results,Resultados,2,581
+complexidade computacional,Outras,2,579
+anacreontea corpus,Outras,2,577
+problema de seleção de rotas multicaminhos para transmissão de vı́deo,Outras,2,576
+os conjuntos de dados utilizados,Outras,2,576
+a mechanism for content curation and fake news containment,Outras,2,576
+conclusions & future work,Conclusão,2,576
+synthesis results,Resultados,2,575
+proposal: analyzing ethical issues,Metodologia,2,575
+aprendizado de máquina na detecção de sql injection,Outras,2,574
+avaliação experimental: resultados e análise,Resultados,2,574
+aprendizagem automática de caracterı́sticas em grafos com node2vec,Outras,2,574
+dimensões de qualidade de dados para o agronegócio,Outras,2,573
+fundamentação teórica sobre redes ópticas,Trabalhos relacionados,2,572
+c          set of configurations where c ⊆ f × t,Outras,2,571
+tessarines algebra,Outras,2,568
+"each fold followed a standard k-fold approach, dividing the dataset into five equal",Metodologia,2,568
+desafios em jornalismo de dados: fake news,Outras,2,567
+combining the artn architecture with interpolation,Metodologia,2,567
+demandas da área de big data,Outras,2,566
+comparison and discussion,Resultados,2,566
+basic concepts and related works,Trabalhos relacionados,2,564
+visão geral open ran,Outras,2,564
+"camada de max-pooling de tamanho 2 × 2, stride igual a 2;",Outras,2,562
+"caso a dívida seja parcelada, mas as parcelas não sejam efetivamente pagas, o",Outras,2,562
+uma breve introdução aos dados de proveniência,Introdução,2,562
+arquitetura do modelo cnn,Metodologia,2,562
+o aircloud dataset,Metodologia,2,562
+proeidi,Outras,2,561
+fundamentação teórica: racismo e linguagem digital,Trabalhos relacionados,2,560
+conclusões e trajetórias futuras,Conclusão,2,560
+bloqueio em redes ópticas de telecomunicações,Outras,2,560
+"neural re-ranking (reranker): after initial retrieval (vector or sparse), a",Outras,2,559
+integracube,Outras,2,559
+rwa problem in wdm networks,Outras,2,558
+author's name similarity method,Metodologia,2,555
+alfabetização digital,Outras,2,554
+mapping to logical schemas,Outras,2,554
+environment,Outras,2,554
+k-means,Outras,2,554
+proposed work and motivation,Metodologia,2,552
+qos & qoe assessment,Outras,2,552
+síndrome de down e coordenação motora fina,Outras,2,551
+arquitetura base,Metodologia,2,551
+cartesian genetic programming (cgp),Outras,2,551
+o sistema produtivo na indústria 4.0,Metodologia,2,551
+exemplo motivador,Outras,2,550
+fairness,Outras,2,549
+ameaças à validade,Outras,2,549
+benchmark method,Metodologia,2,549
+the item reordering/selection problem for recommendation,Outras,2,548
+alocação de recursos e dimensionamento do fronthaul energeticamente eficientes,Outras,2,548
+qos results,Resultados,2,546
+conclusões e pesquisas futuras,Conclusão,2,544
+limitations and threats to validity,Outras,2,533
+dataset description,Metodologia,2,531
+preliminary results,Trabalhos relacionados,2,514
+discussion and future works,Conclusão,1,512
+classificadores,Outras,1,512
+proposal: adaptive fast xgboost,Metodologia,1,512
+results in dblp,Resultados,1,512
+sketch: the proposed method,Metodologia,1,512
+surrogate methods,Metodologia,1,512
+novas medidas de centralidade,Outras,1,512
+experiments evaluation,Resultados,1,512
+datasets,Metodologia,1,512
+"is it possible to classify students into categories of academic performance (e.g.,",Resultados,1,512
+chrome extension platform,Outras,1,512
+mcc auprc especificidade,Outras,1,512
+hubisc,Outras,1,512
+challenges of native ndn over wireless networks,Outras,1,512
+system and pipeline overview,Outras,1,512
+estratégias desenvolvidas,Outras,1,512
+análise de redes sociais,Resultados,1,512
+arquitetura do hyperledger fabric,Metodologia,1,512
+as arquiteturas de armazenamento e o contexto dos dados geoespaciais,Metodologia,1,512
+metodologia do mgc-eeg proposto,Metodologia,1,512
+insanely scalable smr,Outras,1,512
+"context, motivation and related works",Trabalhos relacionados,1,512
+codificadores automáticos -(autoencoders),Outras,1,512
+conceitos da lógica fuzzy,Trabalhos relacionados,1,512
+the replay buffer is updated,Outras,1,512
+"linear-sigmoid                  (1024,1)",Outras,1,512
+ambiente de experimentos,Resultados,1,512
+effects of the action noise,Outras,1,512
+step 5: computed the area within ± 1 std of the template beat according to the,Outras,1,512
+app review classification,Outras,1,512
+problema de horário do curso com base no currı́culo,Outras,1,512
+experimental,Resultados,1,512
+emergency room triage: a solution,Metodologia,1,512
+procedimento metodológico,Metodologia,1,512
+this section presents experimental results to demonstrate the feasibility of our technique,Resultados,1,512
+configurações experimentais,Resultados,1,512
+experimental results and discussions,Resultados,1,512
+o problema de maximização de influência e bibliografias relacionadas,Trabalhos relacionados,1,512
+ensembling transformers models,Outras,1,512
+construção do corpus,Outras,1,512
+m ap e,Outras,1,512
+terapias coginitivo-comportamentais,Outras,1,512
+blue amazon dataset generation,Metodologia,1,511
+x               t,Outras,1,510
+implicações éticas,Outras,1,510
+results and opportunities,Resultados,1,510
+métodos de avaliação,Metodologia,1,508
+first: resiliência na comunicação névoa-nuvem,Outras,1,507
+considerações,Outras,1,506
+ameaças a validade,Outras,1,505
+diversidade linguística versus língua franca,Outras,1,505
+v p +f p +v n +f n,Outras,1,505
+educ-dapp seco,Outras,1,503
+clube hurb and dataset,Metodologia,1,500
+foundations on secure social networks and fake news processing,Outras,1,498
+integrating chatbots and llms,Outras,1,498
+efficientnetb0          0.001,Outras,1,498
+métrica p q∗ : precisão acurada de blocagem,Outras,1,497
+conclus ão e trabalhos futuros,Conclusão,1,497
+groundwork for cnn development,Metodologia,1,496
+hyperbolic tangent function (tanh): this function maps the input values to a,Outras,1,496
+a plataforma hyperledger fabric,Outras,1,495
+economic analysis framework,Resultados,1,494
+fundamental basis,Trabalhos relacionados,1,493
+trabalhos relacionados: algoritmos de cifra de fluxo em plano de dados programável,Trabalhos relacionados,1,492
+implicações do modelo em redes oportunísticas,Metodologia,1,491
+simulation definition,Outras,1,490
+detecção de anomalia com matrix profile,Outras,1,490
+dados csi,Outras,1,489
+preservação linguística indígena no brasil: desafios e tecnologias digitais na comunidade krikati,Outras,1,489
+matrizes simples,Outras,1,489
+brief review of the time series modeling using dl,Outras,1,488
+discussões em redes sociais,Resultados,1,487
+complexidade dos dados,Outras,1,487
+extração dos tópicos,Outras,1,486
+noiseaware components,Outras,1,486
+behavioral biometrics for authentication and user identification using,Outras,1,485
+descrição do dataset,Metodologia,1,485
+modelo de ia dados resultados,Resultados,1,485
+benefícios da inteligência artificial industrial,Outras,1,484
+"the participants must completely execute the training of their local models, when",Outras,1,484
+frequency oracle protocols,Outras,1,483
+projetos em andamento,Outras,1,481
+a abordagem marin,Metodologia,1,480
+iodscf,Outras,1,480
+non-linguistic data about the blue amazon,Outras,1,479
+cenário ilustrativo,Outras,1,477
+heurísticas gulosas,Outras,1,477
+o algoritmo stacking,Metodologia,1,477
+definição de cenário,Outras,1,476
+autoencoders assimétricos (aaes),Outras,1,475
+implantação do raven na rede eduroam do ifes,Outras,1,475
+organização dos experimentos,Resultados,1,474
+development,Metodologia,1,473
+b                  packets                 periodic,Outras,1,472
+columnar nosql databases and hbase,Outras,1,471
+c                                                                                                                        d,Outras,1,471
+pruning unlikely vertices: the module then prunes vertex vectors that represent,Outras,1,470
+super-sniffers e estimativa discreta de distância,Outras,1,470
+lightconv         5k,Outras,1,469
+nominal     usd            não               80%              20%,Outras,1,468
+"condition monitoring data: records relevant data on the health of the ims, from",Outras,1,468
+proposta: cwt-cnn denoising autoencoder (cwt-cnnda),Metodologia,1,468
+análise,Resultados,1,468
+llm. this agent simulates the execution of queries and checks for semantic alignment,Outras,1,466
+tuningchef proposal,Metodologia,1,466
+harbinger,Outras,1,465
+logical models and knowledge representation,Outras,1,465
+formas de avaliação,Resultados,1,463
+evaluated architectures,Resultados,1,463
+propagação de mensagens em redes textuais temporais,Outras,1,461
+contradictions in texts,Outras,1,460
+discussion and results evaluation,Resultados,1,460
+"mi a2, com processador octa-core de 2.0 ghz e 4 gb de ram, atuando como go;",Outras,1,460
+efficientnetv2               308               efficientnetv2       43.35,Outras,1,458
+alocação de tarefas em nuvens veiculares,Outras,1,458
+notation and definitions,Outras,1,457
+gso-km,Outras,1,457
+análise e preparação dos dados,Resultados,1,457
+avaliação de resultados,Resultados,1,455
+privcatboost e os atributos categóricos,Outras,1,454
+business aspects,Outras,1,454
+selection of hyperparameter values: the combination of hyperparameters that,Outras,1,454
+results when evaluating our corpus cgb,Resultados,1,453
+figura 5. resultado dos experimentos para o ativo b3,Resultados,1,452
+estudo de viabilidade: hudson yards,Outras,1,452
+qualitative evaluation,Resultados,1,450
+methodology and research approach,Metodologia,1,449
+llm models (zero-shot prompting),Outras,1,449
+aprendizado federado em redes móveis,Outras,1,449
+pergunta de pesquisa,Outras,3,448
+empirical evaluation,Resultados,1,448
+segmentation process,Outras,1,448
+efficientnetv2             0.001          efficientnetv2            0.001,Outras,1,448
+problema da diversidade máxima,Outras,1,446
+criação do gimars,Outras,1,446
+f. cardoso et al,Outras,1,446
+comparative analysis and evaluation,Resultados,1,445
+análise e conclusões,Conclusão,1,444
+ciclos seguros de desenvolvimento,Metodologia,1,443
+slicing elasticity operations of network elements,Outras,1,443
+divide o conjunto de vcs v em k partes,Outras,1,441
+a decision-support service for firefighting in dry tropical forest,Outras,1,441
+network environment,Outras,1,439
+architecture,Metodologia,1,437
+módulos funcionais,Outras,1,436
+missing values background,Trabalhos relacionados,1,436
+l     fundo com objetos          22         30            73,Outras,1,435
+fault database,Outras,1,435
+avaliação e validação dos cenários obtidos,Resultados,1,435
+substance abuse                           0.037   was hospitalized              0.034,Outras,1,434
+modelo de rede,Metodologia,1,434
+aplicação de algoritmos de desidentificação,Metodologia,1,433
+definições básicas,Outras,1,433
+"for the training process of the neural network, executed for each relative tolerance",Outras,1,433
+lgpd and formal concept analysis,Resultados,1,432
+imputação de dados,Outras,1,432
+resultados: cálculo da regra 3,Resultados,1,431
+proposed approach: apsow,Metodologia,1,431
+background and related work similarity comparisons in rdbms,Trabalhos relacionados,1,430
+nao robot overview,Outras,1,430
+snowflake. a escolha deste componente reside sobre a forma de processamento,Outras,1,429
+classification of the unlabeled documents using the updated document-topic and,Outras,1,429
+review of the literature,Outras,1,429
+arquitetura de referência,Metodologia,1,428
+soft metrics for event detection,Outras,1,427
+recall ← averagerecallatk(results),Resultados,1,425
+abordagem proposta: dimply,Metodologia,1,425
+proposed parallel gpu tabu search,Metodologia,1,424
+work-sharing,Outras,1,423
+"landmarking: these are the performances of simple ml algorithms, such as",Resultados,1,422
+dados e ferramentas,Outras,1,421
+feature extraction,Outras,1,420
+data lakehouse para dados geoespaciais,Outras,1,420
+results and analysis of the experiments,Resultados,1,420
+automatic misinformation detection with mideepbr,Outras,1,420
+id question,Outras,1,419
+agrupamento temporal do faturamento de empresas doadoras,Outras,1,417
+foreach i in array retweeters,Outras,1,417
+pre-processing,Outras,1,416
+framework para detecção de exfiltração em hdfs baseado em dlps,Metodologia,1,414
+"m ← decidepolicy(neighborid, capabilities, trust, context, policies)",Outras,1,411
+the dollar did not rise,Outras,1,411
+realidade estendida,Outras,1,411
+generic conceptual schema,Outras,1,410
+multiple aspect trajectory and the master data model,Metodologia,1,410
+banco de dados,Outras,1,408
+"existence of suitable features to characterise the properties of the instances, that",Outras,1,408
+taxonomia unificada para rnf,Outras,1,408
+state machine replication,Outras,1,406
+recomendações,Outras,1,405
+llm paraphrase oversample                    63.6 ± 4.7 60.6 ± 4.8   64.5 ± 5.1   62.0 ± 6.6   10362        10908,Outras,1,404
+faltam experimentos longitudinais para explorar os efeitos resultantes de,Resultados,1,404
+introduction and related work,Introdução,1,403
+"m               mass                                    17,000 kg",Outras,1,402
+tabela 2. resultados do primeiro experimento,Resultados,1,402
+output layer training,Outras,1,401
+discussão e conclusões,Conclusão,1,401
+discussão e limitações,Resultados,1,400
+construção e aplicação do survey,Outras,1,397
+spn model validation,Resultados,1,397
+metrics,Outras,2,396
+what are the maximum and minimum ages of dropout?,Outras,1,392
+resultados e conclusões,Conclusão,1,392
+gpus nvidia cuda,Outras,1,392
+observações finais,Outras,1,391
+o que é mensurado no hash 3d?,Outras,1,390
+stepwise optimal algorithm,Metodologia,1,390
+extração de informação para enriquecimento de datasets a partir de textos,Metodologia,1,389
+etapa 2: resposta dos modelos preditivos ao desbalanceamento do dataset,Metodologia,1,389
+"prompt engineering: a prompt is defined to add instructions to the llm,",Outras,1,389
+reinicia passo 1 até convergir,Outras,1,389
+dataset and features,Metodologia,1,388
+architecture of the framework,Metodologia,1,387
+características do hash 3d,Outras,1,386
+agent,Outras,1,386
+protótipo de rede 5g sequoia,Outras,1,385
+experimental environment and results,Resultados,1,385
+id    rt      av    th      ci      cs     classificação,Outras,1,385
+particionamento das funções de banda-base e dimensionamento de rede,Outras,1,384
+tabela 1. resumo comparativo dos trabalhos relacionados,Trabalhos relacionados,1,384
+network vs. revenue,Outras,1,384
+classification results,Resultados,1,382
+caladan,Outras,1,381
+método proposto de combinação do som com redes complexas,Metodologia,1,380
+log-based protocols,Outras,1,380
+disponibilidade futura dos dados,Outras,1,380
+multiobjective constrained optimization based on surrogate models,Outras,1,379
+demandas da área de inteligência artificial,Outras,1,379
+final remarks and future works,Conclusão,1,378
+perguntas de pesquisa,Outras,2,378
+implicações teóricas e práticas,Outras,1,376
+a arquitetura do sistema de detecção de intrusão federado,Metodologia,1,375
+the modeling tool,Outras,1,374
+q-learning somático,Outras,1,374
+aplicabilidade teórica e expansões possı́veis,Outras,1,373
+eliminando lacunas da revisão sistemática,Trabalhos relacionados,1,372
+end-to-end architecture,Metodologia,1,371
+neo4j e cypher,Outras,1,371
+testes e avaliações,Resultados,1,371
+estruturas de dados,Outras,1,370
+fundamentação teórica e estado da arte,Trabalhos relacionados,1,370
+circuit reallocation aware of pli,Outras,1,370
+trabalho relacionados,Trabalhos relacionados,1,369
+discussion and future work,Conclusão,1,368
+"d             874          0,568",Outras,1,368
+geopolitics and the impact on oil prices,Outras,1,368
+v p + v n + fp + fn,Outras,1,367
+motivação e objetivos,Introdução,1,366
+abordagem de migração,Metodologia,1,365
+real case study in healthcare data,Resultados,1,365
+empirical design methods,Metodologia,1,365
+proposed evaluation,Resultados,1,363
+resultados da intervenção robótica na terapia,Resultados,1,363
+acm digital library,Outras,1,362
+data stream concepts,Outras,1,362
+open research challenges,Outras,1,361
+"smith-waterman similarity: the smith-waterman similarity algorithm, a local",Metodologia,1,360
+propriedades da linguagem,Outras,1,360
+"linear-sigmoid             (256,1)            linear-tanh         (1024, 7168)",Outras,1,359
+complex networks analysis,Resultados,1,359
+overview of erp 360-degree video coding,Outras,1,358
+proposta de m-health,Metodologia,1,357
+métricas de avaliação em redes,Resultados,1,357
+post-processing and utility,Outras,1,356
+shell                 1.034      scala                      167    shell                       72,Outras,1,356
+o adaptive behavior assessment system (ou sistema de avaliação do comportamento adaptativo) -3ª edição (abas-3),Resultados,1,356
+methodolody,Outras,1,355
+decomposição de tensores,Outras,1,355
+two-archive evolutionary algorithm for constrained multiobjective optimization (ctaea),Metodologia,1,354
+basic concepts on approximation theory,Outras,1,354
+results obtained applying the propagation model,Resultados,1,354
+machine learning model (mlm),Metodologia,1,353
+objetivos,Outras,1,352
+multilayer perceptron,Outras,1,352
+telemetria do plano de dados com int,Outras,1,350
+bichobot evaluation,Resultados,1,350
+"is it possible to determine student dropout trends over time, based on historical",Outras,1,349
+modelagem e avaliação,Resultados,1,348
+conlusão,Outras,1,347
+limitações da pesquisa,Outras,1,347
+"resiliência: a mais importante quantidade local da rede é o grau do nó (ki ∈ n),",Outras,1,347
+resultados da democratização dos dados,Resultados,1,346
+dre-cvm,Outras,1,346
+k-amostras esparsas,Outras,1,346
+privacidade diferencial e consultas top-k,Outras,1,344
+escalonamento de threads,Outras,1,344
+"ptt5 had considerably better results than longformer (27.1% against 19.8%),",Resultados,1,344
+ambiente experimental,Resultados,1,344
+vekg -a vocabulary to describe and specify the metadata graph,Outras,1,343
+order by c.c_custkey;,Outras,1,342
+modelos individuais,Metodologia,1,342
+conducting,Outras,1,339
+conclusao,Conclusão,1,339
+estrutura do modelo dinâmico,Metodologia,1,339
+extração de caracterı́sticas,Outras,1,338
+brazilian legal context and the relevance of this work,Outras,1,338
+entry and exit detection: another scenario that amazon go smart markets cover,Outras,1,338
+id    query,Outras,1,337
+levantamento dos requisitos e arquitetura da plataforma di@,Metodologia,1,336
+discussão final,Resultados,1,336
+levantamento das bibliografias e ementas,Outras,1,334
+theoretical references and related work,Trabalhos relacionados,1,333
+extract nextn ode from pendingn odeslist,Outras,1,333
+descrição das tarefas,Outras,1,331
+traditional classifiers,Outras,1,330
+template architecture,Metodologia,1,329
+discussão sobre limitações e trabalhos futuros,Conclusão,1,329
+llm          high (%)     medium (%)       low (%),Outras,1,327
+iomt architecture,Metodologia,1,326
+final thoughts,Outras,1,325
+executar ação recomendada;,Outras,1,325
+related work and contributions,Trabalhos relacionados,1,324
+grafo temporal,Outras,1,324
+cálculo de correlação e aprendizado de máquina,Outras,1,324
+extração das caracterı́sticas geométricas,Outras,1,324
+demonstrations,Outras,1,323
+description of the tests,Outras,1,322
+id     rt     av th        rt    av    th,Outras,1,322
+arquitetura iomt,Metodologia,1,321
+"dado o acesso a uma maior quantidade de arquivos, identificou-se que arquivos",Outras,1,320
+classification,Outras,1,320
+asr models,Outras,1,317
+conclusão e próximos passos,Conclusão,1,315
+concatenated version of assin and assin2   false,Outras,1,314
+limitações do estudo,Outras,1,314
+sovereignty,Outras,1,313
+similarity grouping by influence,Outras,1,313
+histogram of oriented gradients,Outras,1,309
+proposed solution: sonora,Metodologia,1,308
+filtering of the dataset by cbc (complete blood count test) and urine columns,Metodologia,1,308
+etapa 5: interpretação dos resultados,Resultados,1,308
+ampliação de datasets através de interligações,Metodologia,1,305
+physics-informed neural networks (pinns),Outras,1,305
+caneta e papel para escrever,Outras,1,304
+conclusions and implications,Conclusão,2,302
+baseline: alocando unidades de comunicação nas células mais populares,Outras,1,301
+considerações finais e direções futuras,Conclusão,1,300
+domain-adaptive pre-training,Outras,1,299
+adversarial debiasing,Outras,1,298
+fpga,Outras,1,297
+data sources and preprocessing,Outras,1,296
+"considerações sociais, éticas e culturais",Outras,1,296
+o cubo mágico e suas aplicações,Outras,1,295
+k-fold cross validation,Resultados,1,294
+sistemas para pontuações de rastreamento e acompanhamento,Metodologia,1,293
+virality and success definition,Outras,1,292
+"rl, nb, dt e rf              st3 e dft (sd)            dn e im",Outras,1,291
+motivação,Introdução,1,291
+condução,Outras,1,289
+desenvolvimento e avaliação de um protótipo do fened,Metodologia,1,288
+table 4. average results -decision combination -accuracy,Resultados,1,288
+return a json object that maps the index to the corresponding topic name,Outras,1,287
+xml. uma contribuição desse estudo é um algoritmo para converter bpmn em aiml e,Metodologia,1,286
+tools for text manipulation,Outras,1,285
+flows redirection,Outras,1,284
+a brief illustration of the framework in a case study,Resultados,1,283
+iccell: resultados e discussão,Resultados,1,283
+fusion of results,Resultados,1,283
+análise de tópicos por tempo,Resultados,1,283
+x         atributos do teste completa,Outras,1,283
+how consistent are student grades over time?,Outras,1,282
+generate the initial population p at random;,Outras,1,281
+"m ax(ϵ, |yi |)",Outras,1,279
+d. the marginal predictive distribution considering this uncertainty is given by,Outras,1,278
+vector-valued matrix computation,Outras,1,278
+avaliação do framework proposto,Resultados,1,277
+discussão e análise,Resultados,1,275
+step 2: stratification in training and validation),Resultados,1,273
+rana: protocolo de ampliação de chave quântica,Outras,1,273
+regularization framework for learning final arousal-valence coordinates,Metodologia,1,273
+"json, json estendido e esquema json",Outras,1,272
+"comparison with previous works related to punctuation restoration with measures precision (p), recall (r) and f1-score (f)",Trabalhos relacionados,1,272
+testing and validation,Resultados,1,272
+discussion and contributions,Resultados,1,272
+aghe -approach for generating enhanced heterogeneous embeddings from heterogeneous graphs,Metodologia,1,272
+final remarks and future work,Conclusão,1,271
+"c d empatam em primeiro lugar, e para ambas possui uma quantidade significativamente",Outras,1,271
+"for the experimental evaluation of the gdrf, the collection provided by the information fusion for social image retrieval & diversification",Resultados,1,270
+revisão do aprendizado federado,Trabalhos relacionados,1,267
+protocolo iotp,Outras,1,266
+survey questionnaire,Outras,1,265
+failure prediction of storage devices,Outras,1,265
+extracting anacreontea topoi,Outras,1,264
+icn rules to authorship data structure,Outras,1,264
+virtual agent development,Metodologia,1,263
+avaliação do pipeline rag e estudos de ablação,Resultados,1,263
+system architecture and optimization strategy based on preliminary ranking,Trabalhos relacionados,1,262
+coleta de dados,Outras,1,262
+treinamento do classificador: uma vez obtidas as features que representam cada,Outras,1,261
+conduction,Outras,1,260
+theoretical background of deep learning optimization,Trabalhos relacionados,1,257
+contextualization on human values,Outras,1,257
+vm retorna a origem,Outras,1,257
+conclusion and further works,Conclusão,1,256
+tabela 1. comparação entre os trabalhos relacionados e a nossa proposta mads,Trabalhos relacionados,1,254
+limitações do trabalho,Outras,1,253
+utc time                                      mat/point           rt att,Outras,1,253
+cc oo sudeste,Outras,1,252
+is free of truncations: prevents the distortion of intonational features that could,Outras,1,252
+modelo lógico de grafos,Metodologia,1,252
+icarus system,Outras,1,251
+conclusão e considerações finais,Conclusão,1,251
+"d. in this context, we define the relevance of an item or itemset in terms of its count, that",Outras,1,246
+method and results,Metodologia,1,246
+ethics aspects analysis,Resultados,1,245
+"dados provenientes dos sensores esc são processados localmente pelo sas e,",Outras,1,243
+breve fundamentação teórica,Trabalhos relacionados,1,243
+principais conclusões,Conclusão,1,242
+sf,Outras,1,242
+ambiente e implementação,Metodologia,1,239
+ambiente de simulação e experimentos computacionais,Resultados,1,238
+simulando redes aéreas,Outras,1,238
+"a plataforma di@ deve permitir a manutenção (inclusão, recuperação,",Outras,1,237
+emergency incidents,Outras,1,236
+x                       x,Outras,1,236
+final considerations and future work,Conclusão,1,236
+global research landscape,Outras,1,235
+validation protocol,Resultados,1,235
+analysis of results,Resultados,1,234
+trabalhos futuros e conclusão,Conclusão,1,233
+celebrity     5         93        25         72.0       100.0,Outras,1,232
+gatconv 4        8               global mean pool autocontrast1        0.6829,Outras,1,232
+ferramenta,Outras,1,232
+discussion and final remarks,Conclusão,1,232
+medidas de similaridade em históricos de contexto,Outras,1,231
+the dollar rose,Outras,1,231
+recalculate the centroid of each cluster c,Outras,1,231
+"obtenção de atributos brutos: obtidos para cada cliente (e.g., renda, profissão, etc)",Outras,1,231
+design science research,Outras,1,230
+limitação,Outras,1,229
+tabela 1. comparação com os trabalhos relacionados,Trabalhos relacionados,1,227
+sil+ (syllables and pauses): this segmentation includes detailed information,Outras,1,227
+concluding remarks and future works,Conclusão,1,227
+análise de ferramentas de gestão de metadados,Resultados,1,226
+analysis of the experiments and results,Resultados,1,224
+ackowledgement,Outras,4,224
+território causal,Outras,1,223
+problema estudado,Outras,1,222
+exiperiments,Outras,1,220
+sistema de gerenciamento de falhas,Metodologia,1,219
+cyclegan: a version of the network used and demonstrated in the article,Outras,1,218
+quantile symbolic aggregate approximation (qsax),Outras,1,218
+"the column name represent a important aspect extracted with tf-idf, the column",Outras,1,218
+aspectos éticos,Outras,1,216
+rq -how does the proposed approach help engineers on managing and configuring safety-critical software product lines?,Metodologia,1,215
+m se é o erro médio quadrático entre as imagens original e processada,Outras,1,215
+the output must strictly follow the format,Outras,1,214
+data,Outras,1,212
+id. this data is used to train an ml model to estimate the probability of any given path,Metodologia,1,212
+a proposal: llms for logical reasoning using knowledge bases,Metodologia,1,210
+privacidade de dados,Outras,1,210
+tabela 5. resultados -acur ácia na previs ão de melhor estrat égia,Resultados,1,210
+friedman test results,Resultados,1,208
+fundamentação teórica empregada,Trabalhos relacionados,1,207
+dml. os maiores tempos para todas as 3 medições ficaram por conta das instruções,Outras,1,206
+he sacked the famous town of troy,Outras,1,206
+implantação e monitoramento contínuo,Outras,1,204
+ml perceptron     .975/.858     .967/.822   .998/.954   01 hidden layer w/ 05 neurons,Outras,1,202
+conclusions and limitations,Conclusão,1,202
+you did not miss a tour guide during the visit,Outras,1,201
+problemas investigados,Outras,1,201
+elementos da inteligência artificial industrial,Outras,1,200
+conclusions and ongoing work,Conclusão,1,200
+resolução de ambigüidades,Metodologia,1,199
+emotional datasets,Metodologia,1,198
+algoritmo espectro,Metodologia,1,197
+worst case results,Resultados,1,194
+summary and future work,Conclusão,1,193
+figure 2. summarization of the analysis results,Resultados,1,192
+tabela 1. comparativo dos trabalhos do estado da arte,Trabalhos relacionados,1,191
+what are the functional and non-functional requirements of a software platform,Outras,1,191
+v n + fp,Outras,1,189
+este estudo trabalha com a minimização do makespan tratando-a por meio de,Outras,1,189
+problem,Outras,1,189
+model and simulations,Metodologia,1,189
+usability evaluation,Resultados,1,187
+kurtosis euclidean distance,Outras,1,187
+nerc tools,Outras,1,186
+"practical insights: we discuss the computational efficiency of our pipeline,",Resultados,1,186
+the utlcorpus,Outras,1,184
+yolov12,Outras,1,184
+a concessão do acesso a dados internos da exploração em todos os ambientes da,Outras,1,184
+"capes evaluation and publications up to that year, overlooking temporal dynamics",Resultados,1,184
+fazemos uma releitura de um framework que define diferentes tipos de vieses,Metodologia,1,183
+"avaliação de desempenho dos algoritmos support vector machine (svm),",Resultados,1,182
+microsoft azure sentiment labels (automatic labeling) versus manual,Outras,1,181
+tabela 1. comparativo dos trabalhos relacionados,Trabalhos relacionados,1,181
+propondo uma nova modelagem do problema,Outras,1,180
+long short-term memory (lstm),Outras,1,179
+pivoting of the de exame column: in order to obtain a dataset in the appropriate,Metodologia,1,179
+the friedman test was used to compare the different algorithms and algorithm,Metodologia,1,178
+products did not become more expensive,Outras,1,177
+comparing architectures: results,Resultados,1,177
+exemplary scenario,Outras,1,177
+sistemas de recomendação e a personalização culturalmente sensível,Metodologia,1,176
+arquitetura cf-ran virtualizada,Metodologia,1,175
+baselines & rlhf pilot. we report strong baselines with gpt-4o and llama,Outras,1,174
+step 7 leave-one-out cross validation,Resultados,1,174
+llm slither mythril,Outras,1,172
+results in bdbcomp,Resultados,1,170
+we propose a context-aware strategy for updating reference vectors in nsga-,Outras,1,170
+resultados negativos,Resultados,1,170
+simulate deploy on,Outras,1,169
+investigation approach,Metodologia,1,169
+final considerations and expected results,Conclusão,1,169
+"at the end, the algorithm returns the optimal seed set, the resulting spread, and the",Resultados,1,169
+analysis and results,Resultados,1,169
+creation of metodo diagnostico covid and hosp columns: aiming,Metodologia,1,169
+tabela 1. comparação dos trabalhos relacionados,Trabalhos relacionados,1,169
+v p + v n + fp + fn   10.072,Outras,1,168
+scenario e results,Resultados,1,168
+acerpi,Outras,1,168
+exclusion of columns with many outliers: we notice that most of the blood count,Outras,1,167
+appropriate language: establishing a persona and the objective of the dialogue,Outras,1,167
+foundations and related work,Trabalhos relacionados,1,167
+qlattes,Outras,1,163
+o sistema de filtragem da proposta atual melhora a abordagem desenvolvida,Metodologia,1,163
+dcv. a base de dados encontra-se no link: https://github.com/licaplaboratory/database-,Metodologia,1,160
+dynamic evidence fusion: we introduce a novel fusion technique based on,Introdução,1,160
+híbrida. combinação das duas abordagens anteriores: adiciona o valor obtido a partir,Outras,1,158
+"cj f˄q (9, 8)",Outras,1,157
+gnn-based literature approaches for image classification,Metodologia,1,156
+conclusion and on-going work,Conclusão,1,155
+repetition: repeat until maximum weighted matching is found,Outras,1,152
+"ss (syllables per iu): utterances were segmented into ius, indicating the number",Outras,1,152
+tabela 1. comparação entre os trabalhos relacionados e a presente abordagem,Trabalhos relacionados,1,152
+ethical considerations,Outras,1,151
+dataset and data preparation,Metodologia,1,151
+ambiente de teste,Outras,1,150
+visualização de discussões: a ferramenta visu,Resultados,1,150
+"a comparative evaluation between the proposed ids and a baseline cnn-based approach for intrusion detection in automotive ethernet networks. this comparison shows that the proposed technique achieves an intrusion detection time of 620µs per sample, within the threshold value for real-time avtp replay attack intrusion detection",Resultados,1,149
+substitution in templates,Outras,1,149
+eduvizbr,Outras,1,149
+"avaliar ambos os modelos por meio das métricas mse, rmse, mae e mape",Resultados,1,149
+disponibilidade de artefatos,Outras,1,148
+data and code availability,Outras,1,147
+métricas de avaliação,Resultados,1,144
+"neste caso, e; = f;(y,0;), com à; = o(y, f;,p;).                                                         e; é apresentado ao usuário",Outras,1,143
+aplicações,Outras,1,143
+conclusions and futures works,Conclusão,1,141
+"se houver conflito de duas classes, pelo menos uma delas deve ser sequencial: o",Outras,1,139
+redes ópticas elásticas multi-n úcleos,Outras,1,139
+discussão sobre os sabores e aromas de essências usadas em cigarros eletrônicos,Resultados,1,139
+i expect a formal approval request before others use my data.                                    180.12,Outras,1,138
+conclusão e trabalho futuro,Conclusão,1,137
+crafting the pddl parser,Outras,1,136
+id texto                                                         p1    p2    p3    p1     p2      p3   p1    p2    p3,Outras,1,132
+waitinterval (timeinterval)       // espera um intervalo de tempo para,Outras,1,132
+perda de gradiente da imagem (gradient loss) que ajuda o modelo a aprender,Metodologia,1,131
+acoustic analysis,Resultados,1,130
+full-exploitation policy gradient,Outras,1,129
+limitation and future research,Outras,1,128
+trata-se o problema a partir de duas abordagens mono-objetiva: (i) minimização,Outras,1,128
+"cuda device executes ga for all threads block by block, returning the fittest",Outras,1,127
+a metodologia proposta,Metodologia,1,126
+c        t,Outras,1,126
+conclusions and future research directions,Conclusão,1,125
+validade de conclusão,Conclusão,1,125
+tkg e kg: armazena dados de grafos criados pelo módulo gdntkg,Outras,1,125
+f. author et al,Outras,1,125
+readable and error-free sentence                humanized                      the response would generate interest in the purchase,Outras,1,123
+next steps,Outras,1,122
+tabela 3. resultados das tentativas de extração,Resultados,1,121
+"estabelece-se, assim, que as camadas de interesse do problema em questão são",Outras,1,120
+amplitude de formatos e plataformas: os conjuntos abrangem desde tweets,Outras,1,118
+table 2. related work,Trabalhos relacionados,1,118
+specification capture,Outras,1,118
+database modeling,Outras,1,115
+"solicitação de serviço pelo cliente: o cliente acessa o catálogo de serviços,",Outras,1,115
+metodologia para avaliação da anonimização baseada em k-anonimato nos modelos de aprendizado de máquina,Metodologia,1,113
+instituto brasileiro de geografia e estatística,Outras,1,112
+testes e validação,Resultados,1,112
+consolidação da área internacionalmente,Outras,1,110
+m ap e ∗ (1 + v argp r),Outras,1,110
+empirical experiment and analysis,Resultados,1,110
+segmentation,Outras,1,109
+m ae,Outras,1,106
+"as no result is found, the benchmark advisor queries the benchmark",Resultados,1,106
+conclusions and further work,Conclusão,1,106
+methodology and research method,Metodologia,1,105
+interface,Outras,1,104
+conclusions and directions for future work,Conclusão,1,104
+"model evaluation: for the experimental evaluation, we implemented five",Resultados,1,104
+trabalhos relacionados explorando aprendizado de máquina para predição do risco de mortalidade em utis,Trabalhos relacionados,1,104
+tabela 7. cross validation dos modelos para alo -coeficiente de determinação (em %),Resultados,1,103
+xml. a representação textual de um processo mapeado utilizando notação bpmn pode,Outras,1,103
+"adapting cross-view transformers to scenarios using the carla simulator,",Outras,1,103
+objective,Outras,1,102
+exclusion of unusual exam columns with many missing values: after the pivoting,Outras,1,101
+d             scene dynamics,Outras,1,100
+multi-criteria route selection,Outras,1,99
+acknowlegements,Outras,1,98
+"foundation associated to the brazilian ministry of education (mec), aims the expansion and consolidation of the stricto sensu",Outras,1,97
+methodology: description of how isolates were collected (from which sentinel,Metodologia,1,96
+tfidf-trigram-lsvm  243780 0.165                         0.772   0.792    0.781,Outras,1,95
+individual fairness: the individual losses of each user in each of the h matrices are,Outras,1,95
+defining the problem,Outras,1,94
+"from the image matrix and the reference pixel, a position of the detected",Outras,1,92
+id paciente                unique identification                 string,Outras,1,92
+what is the performance of the bottom 10% of students in mathematics sector,Resultados,1,90
+llm         acurácia      precisão       classificador     acurácia       precisão,Outras,1,90
+considerando que em redes de tecnologia 5g e 6g (ambiente típico de aplicações,Outras,1,89
+manufacturing,Outras,1,87
+substituição de acrônimos: é feita utilizando um dicionário pré-definido de acordo,Outras,1,86
+"the information stored, a detected human tracking, and its trajectory in the",Outras,1,86
+the final set of all the evaluated solutions as well as the hypervolume of the,Resultados,1,86
+correção ortográfica: a correção ortográfica se propõe a detectar possíveis erros de,Outras,1,86
+machine learning integration and results,Resultados,1,85
+x                        x                    x,Outras,1,85
+state data: records the different states of the assets and system of an intelligent,Outras,1,84
+model training and evaluation,Resultados,1,83
+"face detection: presents information about the presence of faces in the video,",Outras,1,82
+solving the scheduling problem,Outras,1,81
+"melhor compreensão das incertezas envolvidas nos projetos e tomadas de decisão,",Outras,1,80
+discussão sobre a idade e uso de cigarros,Resultados,1,77
+id    dataset                    classes    features    instances    class/feat    class/inst,Metodologia,1,75
+alocação dos parâmetros de transmissão lora,Outras,1,74
+we conduct an extensive experimental evaluation of llms from various families,Resultados,1,74
+"evaluation of the obtained ml tools in two scenarios, a static one, with fixed",Resultados,1,73
+rq3 -how does the proposed approach help on estimating the certification objective requirements when considering different component configurations?,Metodologia,1,73
+"adjustment of values for duplicate exams: in instances that, after pivoting, had",Outras,1,72
+"o atacante envia para o centro de comando e controle (c&c server) da botnet,",Outras,1,72
+"according to our results, the framework provides a common testbed that does not",Resultados,1,72
+d        delay (s)   0.0  0.0   0.0,Outras,1,72
+"for students who entered through affirmative action, what is the 70th percentile of",Outras,1,71
+"version v0: turn on the dog feeder at 8am and 5pm, prompting via wi-fi; v1: make coffee at 7 am by",Outras,1,70
+"m uu = {⟨i1 , wu,1 ⟩, ..., ⟨iz , wu,z ⟩|1 ≤ z ≤ |i|} ,                              (3)",Outras,1,70
+validation,Resultados,1,69
+are interventions based on social network traits efficient to increase the adherence,Outras,1,69
+"f         742           0,510",Outras,1,68
+future work,Conclusão,1,67
+proposta e avaliação de uma etapa de rotulação automática de entidades nomeadas,Resultados,1,67
+relatos de problemas de vazamento relacionados a cigarros eletrônicos,Trabalhos relacionados,1,66
+"debate sobre os juices, relato de problemas causados pelo cigarro eletrônico e reclamação de vazamentos",Outras,1,65
+"problemas com queimaduras, gosto de queimado durante o uso de cigarros eletrônicos",Outras,1,65
+llm          gas units            eth              us$,Outras,1,65
+"debate sobre cheiro, sabores e melhoria de experiências com os cigarros eletrônicos em relação aos tradicionais",Outras,1,64
+"camada convolucional com 32 filtros de tamanho 3 × 3, sem padding, stride igual",Outras,1,64
+foreach i in array frame_keywords,Outras,1,64
+predição do risco de mortalidade em utis: concepção da abordagem,Metodologia,1,64
+"data preparation for multiple time horizons: in this step, three datasets were",Metodologia,1,63
+multithread: the code uses multithreading through a threadpoolexecutor,Outras,1,63
+"mensagens de fé, geralmente associadas à cessação do tabagismo e à cura de doenças relacionadas ao tema",Trabalhos relacionados,1,63
+discussão sobre as consequências dos cigarros eletrônicos e tabagismo para a saúde,Resultados,1,63
+c     fundo com objetos          21         30            70,Outras,1,63
+"vl negoc sessao publ, vl unit proposto, vl total proposto foram",Metodologia,1,62
+"homogenization of type in selected columns: for some exams, it was observed",Outras,1,61
+"redução do trabalho dos gestores de dados e dos gestores de aplicação, que não",Outras,1,60
+remoção de pontuação: remoção de caracteres de pontuação presentes no texto,Outras,1,60
+remoção de stopwords (termos comuns da língua que não possuem grande,Outras,1,60
+llm models (few-shot prompting),Outras,1,58
+step 9 evaluation metric establishment,Resultados,1,57
+usage restriction,Outras,1,57
+to ensure that positively labeled documents have the highest value in the first,Outras,1,57
+rq2 -how does the proposed approach help on the identification of implicit feature dependencies upon the inclusion of new features into a component configuration?,Metodologia,1,57
+agradeciemntos,Outras,1,57
+"absolutely hate emilia perez, an insult to mexico.          hs    hs    neu   hs     off off off off off             neu",Outras,1,56
+dataset validation,Metodologia,1,56
+"data preparation and preprocessing: data may be in different shapes, so there is",Outras,1,55
+argumento de que reportagens e entrevistas de médicos trazem desinformação sobre o cigarro eletrônico,Outras,1,55
+"teacher forcing (tf): at each decoding step, the model receives the actual",Metodologia,1,54
+"existence of a large number of diverse algorithms for tackling problem instances,",Metodologia,1,54
+the data system advisor checks that it has enough information and,Outras,1,54
+the benchmark advisor receives the configurations and performs all steps,Outras,1,53
+disponibilidade dos artefatos,Outras,1,53
+"geração de alertas de ataques: para a detecção antecipada do ataque, quando",Outras,1,52
+integration with openai api: the openai api is used as an interface to an,Outras,1,51
+"we compare dp-specific and general-purpose aed methods, conducting both a",Metodologia,1,50
+desacreditar a imprensa: tentam descredibilizar os veículos de notícias com,Outras,1,46
+você consente em participar desta avaliação e permite utilizar os dados coletados,Resultados,1,45
+customer-product association: amazon go also associates each customer to,Outras,1,45
+"dicas sobre manutenção, uso e manipulação dos cigarros eletrônicos",Outras,1,45
+filling missing values: even after excluding predominantly empty columns in,Outras,1,44
+base rule size: this metric evaluates the generalization capability of the,Resultados,1,42
+descoberta multi-serviço,Outras,1,42
+"llm multi-bert                 ×              85,5              86,9             85,5    0,862",Outras,1,42
+the data system advisor stores the top-k data system configurations in,Outras,1,42
+proposta: o sistema kmguide,Metodologia,1,42
+"em contextos reais, é comum que a camada fog seja complementar à nuvem,",Outras,1,41
+m ad,Outras,1,39
+o relatório de todo o material deve ser em formato de documento. na ordem,Outras,1,39
+a concessão do acesso direto a dados internos da exploração em bases analíticas,Outras,1,39
+vii     segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados,Outras,1,39
+tabela 1. quadro comparativo de trabalhos relacionados,Trabalhos relacionados,1,38
+"then, the data system advisor gets the policies from policies",Outras,1,38
+canny edge detection: employed the canny edge detection algorithm to highlight,Metodologia,1,38
+"tokenização da rede privativa: após a montagem da rede, o fs publica no",Outras,1,37
+version v0: monitor the electric current of the air conditioner by bluetooth; v1: monitor home,Outras,1,36
+"to identify useful datasets and perform the etl process on the chosen data (city,",Metodologia,1,36
+"publicação de ofertas de ativos: uma vez validados, os ativos são publicados",Outras,1,35
+information related to the collection of attractions was researched by a specialized,Trabalhos relacionados,1,35
+gdntkg (godot native tkg): executa algoritmos de posicionamento de,Metodologia,1,35
+métricas de desempenho de classificadores para conjuntos de dados desbalanceados,Resultados,1,35
+"q6: does the study report the computational resources used, such as hardware",Outras,1,34
+"adapted metrics. we release rhythmacc and rhymeacc, rule scripts that extend",Outras,1,34
+conclusion and further work,Conclusão,1,34
+consistency: determine the number of rules with the same antecedents,Outras,1,34
+rota com a maior média de lqi. com esta variante se determina o valor médio,Outras,1,33
+step 3: defined a template beat as the average beat of the segment;,Outras,1,33
+há a possibilidade de o contribuinte solicitar o pagamento parcelado da dívida,Outras,1,33
+estatísticas falsas ou enganosas: são relacionados à taxa de incidência ou de,Trabalhos relacionados,1,32
+dom casmurro machado de assis realism                       10 0.33     6     9 0.22      0.03 normal,Outras,1,32
